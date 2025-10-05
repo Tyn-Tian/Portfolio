@@ -1,0 +1,297 @@
+{
+  "header": {
+    "about": {
+      "title": "About",
+      "label": "about"
+    },
+    "career": {
+      "title": "Career",
+      "label": "career"
+    },
+    "projects": {
+      "title": "Projects",
+      "label": "projects"
+    },
+    "contact": {
+      "title": "Contact",
+      "label": "contact"
+    },
+    "settings": "Settings"
+  },
+  "hero": {
+    "available": "Available",
+    "about": {
+      "title": "Innovative Full-Stack Developer and ERP Developer with over a year of hands-on experience, I specialize in building scalable applications that streamline business operations and enhance user experiences.",
+      "description": "Passionate about turning complex problems into simple, effective digital solutions. I’m deeply driven by the blend of technology and design. Always exploring better ways to create impactful systems that empower users and make processes more efficient."
+    }
+  },
+  "career": {
+    "title": "Career & Works",
+    "viewMore": "View more",
+    "companies": [
+      {
+        "company": "Institute of Science and Bussines Atma Luhur",
+        "link": "https://github.com/thefrontendlab",
+        "badges": ["Hybrid"],
+        "jobs": [
+          {
+            "title": "Full Stack Developer & QA Tester",
+            "start": "Mar, 2025",
+            "end": "Aug, 2025",
+            "description": [
+              "Spearheading the development of a Student Funding Application Information System, aimed at digitizing and streamlining bureaucratic processes for 17+ student organizations and 5 university officials.",
+              "Built 10+ core modules using Next.js 15 (App Router) for the frontend and Laravel 12 for the backend.",
+              "Collaborating in a compact agile team using tools like Kanban boards, weekly code reviews, and centralized documentation on Figma & GitHub.",
+              "Created and maintained open-source projects.",
+              "Designed and authored 500+ functional test cases as part of the QA process, focusing on form validation, role-based access control, and business logic verification."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "PT Pijar Teknologi Mediatama",
+        "link": "https://github.com/nextjsargentina",
+        "badges": ["On-site"],
+        "jobs": [
+          {
+            "title": "Software Engineer",
+            "start": "Jun, 2025",
+            "end": "Jul, 2025",
+            "description": [
+              "Conducted in-depth research and collaborated closely with the Tech Lead on ongoing projects, resulting in a 20% faster decision-making process and improved technical alignment across the team.",
+              "Facilitated bi-weekly knowledge sharing sessions (both technical and non-technical), positively impacting5+ team members and fostering a stronger collaborative environment.",
+              "Proposed 3 workflow improvements, with 2 successfully adopted, streamlining processes and improving team efficiency by an estimated 20%."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "detikcom",
+        "link": "https://estudiocabeza.com",
+        "badges": ["On-site"],
+        "jobs": [
+          {
+            "title": "Enterprise Resource Planning Developer",
+            "start": "Feb, 2025",
+            "end": "Apr, 2025",
+            "description": [
+              "Refactored legacy codebase, eliminating 1,000+ redundant lines and reducing code duplication by 35%, resulting in cleaner, more maintainable code.",
+              "Optimized critical logic by replacing nested loops with hash-based lookups, reducing time complexity from O(n²) to O(n) and boosting execution speed by up to 90%.",
+              "Improved application UX by optimizing UI responsiveness, enhancing navigation flow, and ensuring a smoother user experience."
+            ]
+          },
+          {
+            "title": "Full-Stack Developer ERP",
+            "start": "Sep, 2024",
+            "end": "Dec, 2024",
+            "description": [
+              "Developed ERD and DFD based on workflows and UI/UX designs, completing the application 12.5% ahead of schedule while improving documentation and reducing errors.",
+              "Communicated with the Product Manager, improving application flow clarity by 45%, reducing misunderstanding, and ensuring efficient execution.",
+              "Tested the application and fixed 5+ bugs, improving system stability.",
+              "Refactored backend and frontend code, improving usability and readability by 30%."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Self Employed",
+        "link": "https://invisible.co",
+        "badges": ["Remote"],
+        "jobs": [
+          {
+            "title": "Frontend Web Developer",
+            "start": "Mar, 2023",
+            "end": "Jul, 2023",
+            "description": [
+              "Coordinated with backend developers to optimize application performance, reducing load times by 20%.",
+              "Built face recognition and PNPOLY method features, accounting for 33% of total deliverables.",
+              "Led regular 45+ minute team meetings to ensure focused progress.",
+              "Created feature documentation, decreasing errors by 30% and improving productivity by 20%.",
+              "Demonstrated more than 50% of project content to clients."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "We Up Indonesia",
+        "link": "https://basehub.com",
+        "badges": ["Hybrid"],
+        "jobs": [
+          {
+            "title": "Frontend Web Developer",
+            "start": "Oct, 2022",
+            "end": "Dec, 2022",
+            "description": [
+              "Collaborated and fostered team bonding among a diverse team of 11+ members from various divisions.",
+              "Conducted 15-minute standing meetings to report progress.",
+              "Prepared presentations on 7+ frontend web development topics for weekly meetings.",
+              "Developed a company website in 1 week."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects & Crafts",
+    "not-found": "No projects found",
+    "preview": "Preview",
+    "github": "GitHub",
+    "items": [
+      {
+        "title": "SIPEDAK | Student Activity Fund Management System",
+        "tags": [
+          { "name": "Next.js", "icon": "NextJSIcon" },
+          { "name": "React", "icon": "ReactIcon" },
+          { "name": "TypeScript", "icon": "TypeScriptIcon" },
+          { "name": "Laravel", "icon": "LaravelIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
+          { "name": "CSS", "icon": "CSSIcon" }
+        ],
+        "description": "SIPEDAK is a web-based information system designed to streamline and digitize the entire process from proposal submission to financial accountability for student activities at ISB Atma Luhur. The system improves efficiency, reduces bureaucratic bottlenecks, and enhances transparency and accountability by providing an integrated platform for budgeting, revision tracking, and report generation.",
+        "link": {
+          "preview": "https://sipedak.atmaluhur.ac.id/login"
+        },
+        "image": "/projects/images/sipedak.webp"
+      },
+      {
+        "title": "Contrihub | detikcom Contributors Management System",
+        "tags": [
+          { "name": "Next.js", "icon": "NextJSIcon" },
+          { "name": "React", "icon": "ReactIcon" },
+          { "name": "TypeScript", "icon": "TypeScriptIcon" },
+          { "name": "Laravel", "icon": "LaravelIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
+          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Postman", "icon": "PostmanIcon" }
+        ],
+        "description": "The contributor management application is designed to streamline the management of news contributors, from registration and news verification to honor management.",
+        "link": {
+          "preview": "https://kontri.detik.com/"
+        },
+        "image": "/projects/images/contrihub.webp"
+      },
+      {
+        "title": "Employee Attendance System",
+        "tags": [
+          { "name": "Angular", "icon": "AngularIcon" },
+          { "name": "JavaScript", "icon": "JavaScriptIcon" },
+          { "name": "Node.js", "icon": "NodeJSIcon" },
+          { "name": "HTML", "icon": "HTMLIcon" },
+          { "name": "CSS", "icon": "CSSIcon" }
+        ],
+        "description": "A freelance project aimed at creating a secure and efficient employee attendance system by combining face recognition technology (face-api.js) with location-based validation (pnpoly method).",
+        "image": "/projects/images/employee-attendance-system.webp"
+      },
+      {
+        "title": "Sorting-Visualization",
+        "tags": [
+          { "name": "Vue", "icon": "VueIcon" },
+          { "name": "JavaScript", "icon": "JavaScriptIcon" },
+          { "name": "HTML", "icon": "HTMLIcon" },
+          { "name": "CSS", "icon": "CSSIcon" }
+        ],
+        "description": "A project aimed at visualizing the functionality of various sorting algorithms.",
+        "link": {
+          "github": "https://github.com/Tyn-Tian/sorting-visualizer",
+          "preview": "https://sorting-visualization-93abb.web.app/"
+        },
+        "image": "/projects/images/sorting-visualization.webp"
+      },
+      {
+        "title": "Todo-Apps",
+        "tags": [
+          { "name": "Vue", "icon": "VueIcon" },
+          { "name": "Vuex", "icon": "VuexIcon" },
+          { "name": "JavaScript", "icon": "JavaScriptIcon" },
+          { "name": "HTML", "icon": "HTMLIcon" },
+          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Vite", "icon": "ViteIcon" }
+        ],
+        "description": "A simple todo app made with Vue and Vuex.",
+        "link": {
+          "github": "https://github.com/Tyn-Tian/Todo-Apps",
+          "preview": "https://todoapps-vuejs.web.app/"
+        },
+        "image": "/projects/images/todo-apps.webp"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact me",
+    "description": "Feel free to reach out to me for questions, inquiries, or collaborations. Open to new opportunities and challenges.",
+    "form": {
+      "message-watch": "Message must not contain URLs",
+      "on-submit": {
+        "title": "Spam detected",
+        "description": "Please, fill out the form correctly and without spam. Thanks!"
+      },
+      "ok": {
+        "title": "Email sent",
+        "description": "I will get back to you as soon as possible!"
+      },
+      "error": {
+        "title": "Error",
+        "description": "There was an error while submitting the email. Please try again later."
+      },
+      "card-description": "Please, fill out the form below and I'll get back to you as soon as possible.",
+      "first-name": "First name",
+      "first-name-placeholder": "Your first name",
+      "last-name": "Last name",
+      "last-name-placeholder": "Your last name",
+      "email-placeholder": "Your email address",
+      "message": "Message",
+      "message-placeholder": "Enter your message here...",
+      "submit": "Submit",
+      "validation": {
+        "first-name": {
+          "min": "First name must be at least 2 characters.",
+          "max": "First name must be less than 50 characters.",
+          "regex": "First name must contain only letters."
+        },
+        "last-name": {
+          "min": "Last name must be at least 2 characters.",
+          "max": "Last name must be less than 50 characters.",
+          "regex": "Last name must contain only letters."
+        },
+        "email": {
+          "email": "Email must be a valid email address.",
+          "min": "Email must be at least 5 characters.",
+          "max": "Email must be less than 100 characters."
+        },
+        "message": {
+          "min": "Message must be at least 10 characters.",
+          "max": "Message must be less than 500 characters.",
+          "refine": "Message must not contain URLs."
+        }
+      }
+    }
+  },
+  "pagination": {
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "footer": {
+    "copyrights": "All rights reserved."
+  },
+  "lang-switcher": {
+    "label": "Language",
+    "options": {
+      "en": "English",
+      "es": "Spanish"
+    }
+  },
+  "mode-toggle": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "label": "Theme"
+  },
+  "not-found": {
+    "title": "404",
+    "description": "Congratulations! You found a page that doesn't exist. 🎉",
+    "button": "Go back home"
+  }
+}
