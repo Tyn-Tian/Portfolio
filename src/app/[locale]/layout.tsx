@@ -18,9 +18,12 @@ import { type Locale } from '@/i18n'
 import { cn } from '@/lib/utils'
 import '../styles/globals.css'
 
-const metadata: Metadata = {
+export const metadata: Metadata = {
   title: 'Portfolio | Full Stack Developer | Christian',
-  description: 'My personal portfolio: showcasing my work and skills.'
+  description: 'My personal portfolio: showcasing my work and skills.',
+  icons: {
+    icon: '/boy.png'
+  }
 }
 
 export default async function RootLayout({
