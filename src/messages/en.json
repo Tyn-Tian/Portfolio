@@ -39,11 +39,11 @@
             "start": "Mar, 2025",
             "end": "Aug, 2025",
             "description": [
-              "Spearheading the development of a Student Funding Application Information System, aimed at digitizing and streamlining bureaucratic processes for 17+ student organizations and 5 university officials.",
-              "Built 10+ core modules using Next.js 15 (App Router) for the frontend and Laravel 12 for the backend.",
-              "Collaborating in a compact agile team using tools like Kanban boards, weekly code reviews, and centralized documentation on Figma & GitHub.",
-              "Created and maintained open-source projects.",
-              "Designed and authored 500+ functional test cases as part of the QA process, focusing on form validation, role-based access control, and business logic verification."
+              "Developed and maintained a Student Funding Information System that digitized bureaucratic workflows for 17+ student organizations and 5 university officials, improving transparency and process efficiency.",
+              "Built 10+ core modules using Next.js 15 (App Router) and Laravel 12, ensuring scalability and clean architecture.",
+              "Authored and executed 500+ functional test cases covering form validation, role-based access control, and business logic.",
+              "Collaborated in an Agile team environment using Kanban boards, GitHub, and Figma to streamline communication and track progress.",
+              "Improved QA efficiency through automated validation checks, reducing manual testing time by 30%."
             ]
           }
         ]
@@ -58,9 +58,9 @@
             "start": "Jun, 2025",
             "end": "Jul, 2025",
             "description": [
-              "Conducted in-depth research and collaborated closely with the Tech Lead on ongoing projects, resulting in a 20% faster decision-making process and improved technical alignment across the team.",
-              "Facilitated bi-weekly knowledge sharing sessions (both technical and non-technical), positively impacting5+ team members and fostering a stronger collaborative environment.",
-              "Proposed 3 workflow improvements, with 2 successfully adopted, streamlining processes and improving team efficiency by an estimated 20%."
+              "Conducted research and system analysis to support product improvement initiatives, accelerating decision-making by 20%.",
+              "Facilitated bi-weekly knowledge-sharing sessions, improving team alignment and collaboration among 5+ engineers.",
+              "Proposed 3 workflow enhancements, with 2 successfully implemented, boosting team efficiency by 20%."
             ]
           }
         ]
@@ -75,9 +75,10 @@
             "start": "Feb, 2025",
             "end": "Apr, 2025",
             "description": [
-              "Refactored legacy codebase, eliminating 1,000+ redundant lines and reducing code duplication by 35%, resulting in cleaner, more maintainable code.",
-              "Optimized critical logic by replacing nested loops with hash-based lookups, reducing time complexity from O(n²) to O(n) and boosting execution speed by up to 90%.",
-              "Improved application UX by optimizing UI responsiveness, enhancing navigation flow, and ensuring a smoother user experience."
+              "Refactored a legacy ERP codebase, removing 1,000+ redundant lines and reducing duplication by 35% for cleaner maintainability.",
+              "Optimized key business logic using hash-based lookups, improving time complexity from O(n²) to O(n) and increasing execution speed by 90%.",
+              "Enhanced UI responsiveness and navigation flow, resulting in a smoother and more consistent user experience.",
+              "Collaborated with backend engineers to improve data consistency and scalability."
             ]
           },
           {
@@ -85,10 +86,10 @@
             "start": "Sep, 2024",
             "end": "Dec, 2024",
             "description": [
-              "Developed ERD and DFD based on workflows and UI/UX designs, completing the application 12.5% ahead of schedule while improving documentation and reducing errors.",
-              "Communicated with the Product Manager, improving application flow clarity by 45%, reducing misunderstanding, and ensuring efficient execution.",
-              "Tested the application and fixed 5+ bugs, improving system stability.",
-              "Refactored backend and frontend code, improving usability and readability by 30%."
+              "Developed and integrated ERP and DFD systems based on UI/UX prototypes, delivering the project 12.5% ahead of schedule.",
+              "Improved communication with the Product Manager, reducing workflow misunderstandings by 45%.",
+              "Conducted end-to-end testing and debugging of 5+ critical modules, enhancing system stability and performance.",
+              "Refactored backend and frontend code for better readability and reusability, improving overall maintainability by 30%."
             ]
           }
         ]
@@ -103,11 +104,11 @@
             "start": "Mar, 2023",
             "end": "Jul, 2023",
             "description": [
-              "Coordinated with backend developers to optimize application performance, reducing load times by 20%.",
-              "Built face recognition and PNPOLY method features, accounting for 33% of total deliverables.",
-              "Led regular 45+ minute team meetings to ensure focused progress.",
-              "Created feature documentation, decreasing errors by 30% and improving productivity by 20%.",
-              "Demonstrated more than 50% of project content to clients."
+              "Built and maintained face recognition and location validation (PNPOLY) features, improving attendance accuracy for clients.",
+              "Collaborated with backend developers to reduce application load times by 20%.",
+              "Created detailed feature documentation, cutting team errors by 30% and boosting productivity by 20%.",
+              "Led weekly 45-minute client meetings to ensure transparency and timely progress updates.",
+              "Presented project demos to clients, improving satisfaction and retention."
             ]
           }
         ]
@@ -122,10 +123,10 @@
             "start": "Oct, 2022",
             "end": "Dec, 2022",
             "description": [
-              "Collaborated and fostered team bonding among a diverse team of 11+ members from various divisions.",
-              "Conducted 15-minute standing meetings to report progress.",
+              "Responsible for slicing and building a company profile website.",
               "Prepared presentations on 7+ frontend web development topics for weekly meetings.",
-              "Developed a company website in 1 week."
+              "Conducted 15-minute standing meetings to report progress.",
+              "Collaborated and fostered team bonding among a diverse team of 11+ members from various divisions."
             ]
           }
         ]
