@@ -30,6 +30,19 @@
     "viewMore": "View more",
     "companies": [
       {
+        "company": "detikcom",
+        "link": "https://detik.com",
+        "badges": ["On-site"],
+        "jobs": [
+          {
+            "title": "Back-end Developer",
+            "start": "Oct, 2025",
+            "end": "Present",
+            "description": ["Coming soon..."]
+          }
+        ]
+      },
+      {
         "company": "Institute of Science and Bussines Atma Luhur",
         "link": "https://github.com/thefrontendlab",
         "badges": ["Hybrid"],
