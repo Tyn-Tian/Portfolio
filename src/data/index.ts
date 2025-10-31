@@ -31,6 +31,8 @@ import { PostmanIcon } from '@/components/icons/tags/postman'
 import { AngularIcon } from '@/components/icons/tags/angular'
 import { VueIcon } from '@/components/icons/tags/vue'
 import { VuexIcon } from '@/components/icons/tags/vuex'
+import { CodeigniterIcon } from '@/components/icons/tags/codeigniter'
+import { MoodleIcon } from '@/components/icons/tags/moodle'
 
 export const AVATAR = {
   name: 'Christian',
@@ -93,5 +95,7 @@ export const iconMap: Record<string, IconComponent> = {
   PostmanIcon,
   AngularIcon,
   VueIcon,
-  VuexIcon
+  VuexIcon,
+  CodeigniterIcon,
+  MoodleIcon
 }

@@ -153,6 +153,22 @@
     "github": "GitHub",
     "items": [
       {
+        "title": "detikcom | Learning Management System",
+        "tags": [
+          { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "Moodle", "icon": "MoodleIcon" },
+          { "name": "JavaScript", "icon": "JavaScriptIcon" },
+          { "name": "Bootstrap", "icon": "BootstrapIcon" },
+          { "name": "CSS", "icon": "CSSIcon" }
+        ],
+        "description": "A Learning Management System developed for detikcom to enhance internal learning and training efficiency. This platform enables seamless course management, learner engagement, and progress tracking in a structured and user-friendly environment. The project focuses on improving accessibility, collaboration, and digital transformation in corporate learning at detikcom",
+        "link": {
+          "preview": "https://learning.detik.com/frontpage/"
+        },
+        "image": "/projects/images/learning-management-system.webp"
+      },
+      {
         "title": "SIPEDAK | Student Activity Fund Management System",
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
