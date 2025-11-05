@@ -33,6 +33,8 @@ import { VueIcon } from '@/components/icons/tags/vue'
 import { VuexIcon } from '@/components/icons/tags/vuex'
 import { CodeigniterIcon } from '@/components/icons/tags/codeigniter'
 import { MoodleIcon } from '@/components/icons/tags/moodle'
+import { MySQLIcon } from '@/components/icons/tags/mysql'
+import { SQLiteIcon } from '@/components/icons/tags/sqlite'
 
 export const AVATAR = {
   name: 'Christian',
@@ -97,5 +99,7 @@ export const iconMap: Record<string, IconComponent> = {
   VueIcon,
   VuexIcon,
   CodeigniterIcon,
-  MoodleIcon
+  MoodleIcon,
+  MySQLIcon,
+  SQLiteIcon
 }

@@ -153,12 +153,22 @@
     "github": "GitHub",
     "items": [
       {
+        "title": "detikcom | Transmedia Assessment",
+        "tags": [
+          { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" }
+        ],
+        "description": "A web-based psychometric assessment platform developed for detikcom to support their recruitment process. The system enables candidates to complete online psychological tests, while HR teams can manage test modules, monitor progress, and review automated scoring results. The platform improves recruitment efficiency by digitizing assessment workflows, ensuring consistent evaluation standards, secure testing environments, and data-driven decision-making."
+      },
+      {
         "title": "detikcom | Learning Management System",
         "tags": [
           { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "Moodle", "icon": "MoodleIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
+          { "name": "SQLite", "icon": "SQLiteIcon" },
           { "name": "Bootstrap", "icon": "BootstrapIcon" },
           { "name": "CSS", "icon": "CSSIcon" }
         ],
@@ -176,6 +186,7 @@
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
           { "name": "CSS", "icon": "CSSIcon" }
         ],
@@ -193,6 +204,7 @@
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Postman", "icon": "PostmanIcon" }
