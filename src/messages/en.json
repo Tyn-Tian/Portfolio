@@ -157,7 +157,9 @@
         "tags": [
           { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
-          { "name": "MySQL", "icon": "MySQLIcon" }
+          { "name": "MySQL", "icon": "MySQLIcon" },
+          { "name": "Linux", "icon": "LinuxIcon" },
+          { "name": "Docker", "icon": "DockerIcon" }
         ],
         "description": "A web-based psychometric assessment platform developed for detikcom to support their recruitment process. The system enables candidates to complete online psychological tests, while HR teams can manage test modules, monitor progress, and review automated scoring results. The platform improves recruitment efficiency by digitizing assessment workflows, ensuring consistent evaluation standards, secure testing environments, and data-driven decision-making."
       },
