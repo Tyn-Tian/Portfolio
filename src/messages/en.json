@@ -192,7 +192,6 @@
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Github", "icon": "GithubIcon" }
         ],
         "description": "SIPEDAK is a web-based information system designed to streamline and digitize the entire process from proposal submission to financial accountability for student activities at ISB Atma Luhur. The system improves efficiency, reduces bureaucratic bottlenecks, and enhances transparency and accountability by providing an integrated platform for budgeting, revision tracking, and report generation.",
@@ -211,7 +210,6 @@
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Postman", "icon": "PostmanIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
@@ -227,7 +225,6 @@
           { "name": "Angular", "icon": "AngularIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
           { "name": "Node.js", "icon": "NodeJSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Github", "icon": "GithubIcon" }
         ],
@@ -239,7 +236,6 @@
         "tags": [
           { "name": "Vue", "icon": "VueIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
           { "name": "CSS", "icon": "CSSIcon" }
         ],
         "description": "A project aimed at visualizing the functionality of various sorting algorithms.",
@@ -255,7 +251,6 @@
           { "name": "Vue", "icon": "VueIcon" },
           { "name": "Vuex", "icon": "VuexIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Vite", "icon": "ViteIcon" }
         ],
