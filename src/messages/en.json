@@ -223,7 +223,7 @@
         "title": "Employee Attendance System",
         "tags": [
           { "name": "Angular", "icon": "AngularIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
+          { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Node.js", "icon": "NodeJSIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Github", "icon": "GithubIcon" }
