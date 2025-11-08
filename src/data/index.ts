@@ -39,6 +39,7 @@ import { LinuxIcon } from '@/components/icons/tags/linux'
 import { DockerIcon } from '@/components/icons/tags/docker'
 import { GitlabIcon } from '@/components/icons/tags/gitlab'
 import { GithubIcon } from '@/components/icons/tags/github'
+import { InstagramIcon } from '@/components/icons/instagram'
 
 export const AVATAR = {
   name: 'Christian',
@@ -61,6 +62,11 @@ export const LINKS = [
     url: 'mailto:kristian2015ok@gmail.com',
     icon: MailIcon
   },
+  {
+    title: 'Instagram',
+    url: 'https://instagram.com/christiantitik',
+    icon: InstagramIcon
+  }
   // {
   //   title: 'CV App',
   //   url: 'https://cv.emapeire.xyz',
