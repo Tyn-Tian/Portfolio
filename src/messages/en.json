@@ -159,7 +159,8 @@
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Linux", "icon": "LinuxIcon" },
-          { "name": "Docker", "icon": "DockerIcon" }
+          { "name": "Docker", "icon": "DockerIcon" },
+          { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "A web-based psychometric assessment platform developed for detikcom to support their recruitment process. The system enables candidates to complete online psychological tests, while HR teams can manage test modules, monitor progress, and review automated scoring results. The platform improves recruitment efficiency by digitizing assessment workflows, ensuring consistent evaluation standards, secure testing environments, and data-driven decision-making."
       },
@@ -172,7 +173,8 @@
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
           { "name": "SQLite", "icon": "SQLiteIcon" },
           { "name": "Bootstrap", "icon": "BootstrapIcon" },
-          { "name": "CSS", "icon": "CSSIcon" }
+          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "A Learning Management System developed for detikcom to enhance internal learning and training efficiency. This platform enables seamless course management, learner engagement, and progress tracking in a structured and user-friendly environment. The project focuses on improving accessibility, collaboration, and digital transformation in corporate learning at detikcom",
         "link": {
@@ -190,7 +192,8 @@
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "CSS", "icon": "CSSIcon" }
+          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Github", "icon": "GithubIcon" }
         ],
         "description": "SIPEDAK is a web-based information system designed to streamline and digitize the entire process from proposal submission to financial accountability for student activities at ISB Atma Luhur. The system improves efficiency, reduces bureaucratic bottlenecks, and enhances transparency and accountability by providing an integrated platform for budgeting, revision tracking, and report generation.",
         "link": {
@@ -209,7 +212,8 @@
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Postman", "icon": "PostmanIcon" }
+          { "name": "Postman", "icon": "PostmanIcon" },
+          { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "The contributor management application is designed to streamline the management of news contributors, from registration and news verification to honor management.",
         "link": {
@@ -224,7 +228,8 @@
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
           { "name": "Node.js", "icon": "NodeJSIcon" },
           { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "CSS", "icon": "CSSIcon" }
+          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Github", "icon": "GithubIcon" }
         ],
         "description": "A freelance project aimed at creating a secure and efficient employee attendance system by combining face recognition technology (face-api.js) with location-based validation (pnpoly method).",
         "image": "/projects/images/employee-attendance-system.webp"

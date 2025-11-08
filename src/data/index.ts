@@ -37,6 +37,8 @@ import { MySQLIcon } from '@/components/icons/tags/mysql'
 import { SQLiteIcon } from '@/components/icons/tags/sqlite'
 import { LinuxIcon } from '@/components/icons/tags/linux'
 import { DockerIcon } from '@/components/icons/tags/docker'
+import { GitlabIcon } from '@/components/icons/tags/gitlab'
+import { GithubIcon } from '@/components/icons/tags/github'
 
 export const AVATAR = {
   name: 'Christian',
@@ -105,5 +107,7 @@ export const iconMap: Record<string, IconComponent> = {
   MySQLIcon,
   SQLiteIcon,
   LinuxIcon,
-  DockerIcon
+  DockerIcon,
+  GitlabIcon,
+  GithubIcon
 }
