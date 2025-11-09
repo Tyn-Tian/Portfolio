@@ -18,6 +18,7 @@ import { type Locale } from "@/i18n";
 import { cn } from "@/lib/utils";
 import "../styles/globals.css";
 import SmoothScrollLayout from "@/components/layout";
+import ScrollToTopButton from "@/components/scroll-top-button";
 
 export const metadata: Metadata = {
   title: "Portfolio | Full Stack Developer | Christian",
@@ -61,6 +62,7 @@ export default async function RootLayout({
                   <main className="flex flex-col items-center justify-center min-h-screen pt-24 pb-8 px-4">
                     <Header />
                     {children}
+                    <ScrollToTopButton />
                     <Footer />
                   </main>
                 </TooltipProvider>
