@@ -153,6 +153,14 @@
     "github": "GitHub",
     "items": [
       {
+        "title": "detikcom | MagangHub Batch 2 Recruitment Automation",
+        "tags": [
+          { "name": "n8n", "icon": "N8nIcon" },
+          { "name": "Google Sheets", "icon": "GoogleSheetIcon" }
+        ],
+        "description": "A project aimed at automating the recruitment process for MagangHub Batch 2 using n8n to streamline candidate data collection, processing, and evaluation. The automation system integrates data scraping, workflow orchestration, and internal tool optimization to enhance efficiency, reduce manual tasks, and improve transparency throughout the recruitment pipeline."
+      },
+      {
         "title": "detikcom | Transmedia Assessment",
         "tags": [
           { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
