@@ -138,6 +138,8 @@
       {
         "title": "detikcom | MagangHub Batch 2 Recruitment Automation",
         "tags": [
+          { "name": "Pandas", "icon": "PandasIcon" },
+          { "name": "Python", "icon": "PythonIcon" },
           { "name": "n8n", "icon": "N8nIcon" },
           { "name": "Google Sheets", "icon": "GoogleSheetIcon" }
         ],

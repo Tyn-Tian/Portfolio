@@ -42,6 +42,8 @@ import { GithubIcon } from '@/components/icons/tags/github'
 import { InstagramIcon } from '@/components/icons/instagram'
 import { N8nIcon } from '@/components/icons/tags/n8n'
 import { GoogleSheetIcon } from '@/components/icons/tags/google-sheet'
+import { PythonIcon } from '@/components/icons/tags/python'
+import { PandasIcon } from '@/components/icons/tags/pandas'
 
 export const AVATAR = {
   name: 'Christian',
@@ -119,5 +121,7 @@ export const iconMap: Record<string, IconComponent> = {
   GitlabIcon,
   GithubIcon,
   N8nIcon,
-  GoogleSheetIcon
+  GoogleSheetIcon,
+  PythonIcon,
+  PandasIcon
 }
