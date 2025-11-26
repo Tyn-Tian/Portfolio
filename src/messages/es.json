@@ -31,45 +31,25 @@
     "companies": [
       {
         "company": "detikcom",
-        "link": "https://detik.com",
+        "link": "https://estudiocabeza.com",
         "badges": ["On-site"],
         "jobs": [
           {
+            "title": "Full Stack Developer",
+            "start": "Nov, 2025",
+            "end": "Sekarang",
+            "description": ["Segera hadir..."]
+          },
+          {
             "title": "Back-end Developer",
             "start": "Okt, 2025",
-            "end": "Sekarang",
+            "end": "Nov, 2025",
             "description": [
               "Meningkatkan LMS dengan memperbaiki bug dan menerapkan fitur yang diminta stakeholder, mengurangi frekuensi masalah sebesar",
               "Meng-upgrade sistem Assessment dari PHP 5 ke PHP 7.4, menyempurnakan alur backend untuk pengalaman pengguna yang lebih mulus dan meningkatkan performa secara signifikan.",
               "Membangun automasi backend untuk rekrutmen MagangHub Batch 2, mengurangi waktu pemrosesan manual sebesar 40–50% dan meningkatkan akurasi data."
             ]
-          }
-        ]
-      },
-      {
-        "company": "Institute of Science and Bussines Atma Luhur",
-        "link": "https://github.com/thefrontendlab",
-        "badges": ["Hybrid"],
-        "jobs": [
-          {
-            "title": "Full Stack Developer & QA Tester",
-            "start": "Mar, 2025",
-            "end": "Agu, 2025",
-            "description": [
-              "Mengembangkan dan memelihara Sistem Informasi Dana Kemahasiswaan yang mendigitalisasi alur birokrasi untuk 17+ organisasi mahasiswa dan 5 pejabat kampus, meningkatkan transparansi dan efisiensi proses.",
-              "Membangun 10+ modul inti menggunakan Next.js 15 (App Router) dan Laravel 12, memastikan skalabilitas dan arsitektur yang bersih.",
-              "Membuat dan mengeksekusi 500+ test case fungsional yang mencakup validasi form, kontrol akses berbasis peran, dan logika bisnis.",
-              "Berkolaborasi dalam tim Agile menggunakan papan Kanban, GitHub, dan Figma untuk memperlancar komunikasi dan pelacakan progres.",
-              "Meningkatkan efisiensi QA melalui pengecekan validasi otomatis, mengurangi waktu pengujian manual hingga 30%."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "detikcom",
-        "link": "https://estudiocabeza.com",
-        "badges": ["On-site"],
-        "jobs": [
+          },
           {
             "title": "Enterprise Resource Planning Developer",
             "start": "Feb, 2025",
@@ -90,6 +70,25 @@
               "Meningkatkan komunikasi dengan Product Manager, mengurangi miskomunikasi workflow sebesar 45%.",
               "Melakukan pengujian end-to-end dan debugging pada 5+ modul kritis, meningkatkan stabilitas dan performa sistem.",
               "Merombak kode backend dan frontend untuk keterbacaan dan reusability yang lebih baik, meningkatkan maintainability sebesar 30%."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Institute of Science and Bussines Atma Luhur",
+        "link": "https://github.com/thefrontendlab",
+        "badges": ["Hybrid"],
+        "jobs": [
+          {
+            "title": "Full Stack Developer & QA Tester",
+            "start": "Mar, 2025",
+            "end": "Agu, 2025",
+            "description": [
+              "Mengembangkan dan memelihara Sistem Informasi Dana Kemahasiswaan yang mendigitalisasi alur birokrasi untuk 17+ organisasi mahasiswa dan 5 pejabat kampus, meningkatkan transparansi dan efisiensi proses.",
+              "Membangun 10+ modul inti menggunakan Next.js 15 (App Router) dan Laravel 12, memastikan skalabilitas dan arsitektur yang bersih.",
+              "Membuat dan mengeksekusi 500+ test case fungsional yang mencakup validasi form, kontrol akses berbasis peran, dan logika bisnis.",
+              "Berkolaborasi dalam tim Agile menggunakan papan Kanban, GitHub, dan Figma untuk memperlancar komunikasi dan pelacakan progres.",
+              "Meningkatkan efisiensi QA melalui pengecekan validasi otomatis, mengurangi waktu pengujian manual hingga 30%."
             ]
           }
         ]

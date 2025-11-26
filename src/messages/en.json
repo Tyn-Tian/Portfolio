@@ -31,45 +31,25 @@
     "companies": [
       {
         "company": "detikcom",
-        "link": "https://detik.com",
+        "link": "https://estudiocabeza.com",
         "badges": ["On-site"],
         "jobs": [
           {
+            "title": "Full Stack Developer",
+            "start": "Nov, 2025",
+            "end": "Present",
+            "description": ["Coming soon..."]
+          },
+          {
             "title": "Back-end Developer",
             "start": "Oct, 2025",
-            "end": "Present",
+            "end": "Nov, 2025",
             "description": [
               "Enhanced the LMS by fixing bugs and implementing stakeholder-requested features, reducing issue frequency by",
               "Upgraded the Assessment system from PHP 5 to PHP 7.4, refining backend flows for a more seamless user experience and boosting performance significantly.",
               "Built backend automation for MagangHub Batch 2 recruitment, cutting manual processing time by 40–50% and improving data accuracy."
             ]
-          }
-        ]
-      },
-      {
-        "company": "Institute of Science and Bussines Atma Luhur",
-        "link": "https://github.com/thefrontendlab",
-        "badges": ["Hybrid"],
-        "jobs": [
-          {
-            "title": "Full Stack Developer & QA Tester",
-            "start": "Mar, 2025",
-            "end": "Aug, 2025",
-            "description": [
-              "Developed and maintained a Student Funding Information System that digitized bureaucratic workflows for 17+ student organizations and 5 university officials, improving transparency and process efficiency.",
-              "Built 10+ core modules using Next.js 15 (App Router) and Laravel 12, ensuring scalability and clean architecture.",
-              "Authored and executed 500+ functional test cases covering form validation, role-based access control, and business logic.",
-              "Collaborated in an Agile team environment using Kanban boards, GitHub, and Figma to streamline communication and track progress.",
-              "Improved QA efficiency through automated validation checks, reducing manual testing time by 30%."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "detikcom",
-        "link": "https://estudiocabeza.com",
-        "badges": ["On-site"],
-        "jobs": [
+          },
           {
             "title": "Enterprise Resource Planning Developer",
             "start": "Feb, 2025",
@@ -90,6 +70,25 @@
               "Improved communication with the Product Manager, reducing workflow misunderstandings by 45%.",
               "Conducted end-to-end testing and debugging of 5+ critical modules, enhancing system stability and performance.",
               "Refactored backend and frontend code for better readability and reusability, improving overall maintainability by 30%."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Institute of Science and Bussines Atma Luhur",
+        "link": "https://github.com/thefrontendlab",
+        "badges": ["Hybrid"],
+        "jobs": [
+          {
+            "title": "Full Stack Developer & QA Tester",
+            "start": "Mar, 2025",
+            "end": "Aug, 2025",
+            "description": [
+              "Developed and maintained a Student Funding Information System that digitized bureaucratic workflows for 17+ student organizations and 5 university officials, improving transparency and process efficiency.",
+              "Built 10+ core modules using Next.js 15 (App Router) and Laravel 12, ensuring scalability and clean architecture.",
+              "Authored and executed 500+ functional test cases covering form validation, role-based access control, and business logic.",
+              "Collaborated in an Agile team environment using Kanban boards, GitHub, and Figma to streamline communication and track progress.",
+              "Improved QA efficiency through automated validation checks, reducing manual testing time by 30%."
             ]
           }
         ]
