@@ -1,205 +1,132 @@
 {
   "header": {
     "about": {
-      "title": "Sobre mí",
-      "label": "sobre-mi"
+      "title": "Tentang Saya",
+      "label": "tentang"
     },
     "career": {
-      "title": "Carrera",
-      "label": "carrera"
+      "title": "Karir",
+      "label": "karir"
     },
     "projects": {
-      "title": "Proyectos",
-      "label": "proyectos"
+      "title": "Proyek",
+      "label": "proyek"
     },
     "contact": {
-      "title": "Contacto",
-      "label": "contacto"
+      "title": "Kontak",
+      "label": "kontak"
     },
-    "settings": "Configuración"
+    "settings": "Pengaturan"
   },
   "hero": {
-    "available": "Disponible",
+    "available": "Tersedia",
     "about": {
-      "title": "Ingeniero de frontend, relaciones con desarrolladores y entusiasta de la investigación en IA. Siempre influenciado por el diseño. Con base en Rosario, Argentina 🇦🇷",
-      "description": "Apasionado por crear soluciones tecnológicas innovadoras que generen un impacto social. Centrado en el uso de tecnologías avanzadas de interfaz para mejorar la accesibilidad y el rendimiento en aplicaciones web. Mi objetivo principal es mejorar la experiencia del usuario, haciendo de la web un lugar mejor para todos."
+      "title": "Pengembang Full-Stack dan ERP yang inovatif dengan pengalaman lebih dari satu tahun. Saya ahli dalam membangun aplikasi yang skalabel untuk menyederhanakan proses bisnis dan meningkatkan pengalaman pengguna.",
+      "description": "Bersemangat dalam mengubah masalah kompleks menjadi solusi digital yang sederhana dan efektif. Saya sangat terdorong oleh perpaduan antara teknologi dan desain. Selalu mencari cara yang lebih baik untuk menciptakan sistem yang berdampak, memberdayakan pengguna, dan membuat proses lebih efisien."
     }
   },
   "career": {
-    "title": "Carrera & Trabajos",
-    "viewMore": "Ver más",
+    "title": "Karir & Pekerjaan",
+    "viewMore": "Lihat lebih banyak",
     "companies": [
       {
-        "company": "Frontend Lab",
+        "company": "detikcom",
+        "link": "https://detik.com",
+        "badges": ["On-site"],
+        "jobs": [
+          {
+            "title": "Back-end Developer",
+            "start": "Okt, 2025",
+            "end": "Sekarang",
+            "description": [
+              "Meningkatkan LMS dengan memperbaiki bug dan menerapkan fitur yang diminta stakeholder, mengurangi frekuensi masalah sebesar",
+              "Meng-upgrade sistem Assessment dari PHP 5 ke PHP 7.4, menyempurnakan alur backend untuk pengalaman pengguna yang lebih mulus dan meningkatkan performa secara signifikan.",
+              "Membangun automasi backend untuk rekrutmen MagangHub Batch 2, mengurangi waktu pemrosesan manual sebesar 40–50% dan meningkatkan akurasi data."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Institute of Science and Bussines Atma Luhur",
         "link": "https://github.com/thefrontendlab",
-        "badges": ["Híbrido"],
+        "badges": ["Hybrid"],
         "jobs": [
           {
-            "title": "Desarrollador Frontend & Investigador Técnico",
-            "start": "Ago, 2023",
-            "end": "Presente",
+            "title": "Full Stack Developer & QA Tester",
+            "start": "Mar, 2025",
+            "end": "Agu, 2025",
             "description": [
-              "Investigué e implementé nuevas tecnologías y herramientas frontend.",
-              "Desarrollé soluciones innovadoras para mejorar la comunidad frontend.",
-              "Realizé investigaciones técnicas para estar a la vanguardia de las tendencias de la industria.",
-              "Creé y mantuve proyectos de código abierto.",
-              "Colaboré con miembros del equipo para mejorar los resultados de los proyectos."
-            ]
-          },
-          {
-            "title": "Investigador Técnico & Desarrollador de Contenidos",
-            "start": "Jul, 2021",
-            "end": "Ago, 2023",
-            "description": [
-              "Creé contenido técnico para educar y atraer a la comunidad frontend.",
-              "Desarrollé tutoriales y guías sobre las últimas tecnologías frontend.",
-              "Gestioné la estrategia de contenido para alinearla con las necesidades y tendencias de la comunidad.",
-              "Colaboré con expertos para producir contenido informativo de alta calidad.",
-              "Utilizé varias plataformas para distribuir contenido y maximizar el alcance."
+              "Mengembangkan dan memelihara Sistem Informasi Dana Kemahasiswaan yang mendigitalisasi alur birokrasi untuk 17+ organisasi mahasiswa dan 5 pejabat kampus, meningkatkan transparansi dan efisiensi proses.",
+              "Membangun 10+ modul inti menggunakan Next.js 15 (App Router) dan Laravel 12, memastikan skalabilitas dan arsitektur yang bersih.",
+              "Membuat dan mengeksekusi 500+ test case fungsional yang mencakup validasi form, kontrol akses berbasis peran, dan logika bisnis.",
+              "Berkolaborasi dalam tim Agile menggunakan papan Kanban, GitHub, dan Figma untuk memperlancar komunikasi dan pelacakan progres.",
+              "Meningkatkan efisiensi QA melalui pengecekan validasi otomatis, mengurangi waktu pengujian manual hingga 30%."
             ]
           }
         ]
       },
       {
-        "company": "Next.js Argentina",
-        "link": "https://github.com/nextjsargentina",
-        "badges": ["Híbrido"],
-        "jobs": [
-          {
-            "title": "Arquitecto de Experiencia del Desarrollador",
-            "start": "Ago, 2023",
-            "end": "Presente",
-            "description": [
-              "Construí y fomenté una comunidad abierta sin fines de lucro para entusiastas de Next.js.",
-              "Desarrollé recursos para mejorar la experiencia del desarrollador con Next.js.",
-              "Organizé eventos y talleres comunitarios.",
-              "Proporcioné mentoría y apoyo a los miembros de la comunidad.",
-              "Colaboré con otros líderes comunitarios para expandir el alcance de la comunidad."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Estudio Cabeza",
+        "company": "detikcom",
         "link": "https://estudiocabeza.com",
-        "badges": ["Remoto"],
+        "badges": ["On-site"],
         "jobs": [
           {
-            "title": "Especialista en DevOps e Infraestructura",
-            "start": "Jul, 2024",
-            "end": "Ago, 2024",
+            "title": "Enterprise Resource Planning Developer",
+            "start": "Feb, 2025",
+            "end": "Apr, 2025",
             "description": [
-              "Migré de WordPress a Webflow, mejorando el rendimiento.",
-              "Configuré Cloudflare para SSL y DNS.",
-              "Optimicé despliegues para reducir inactividad.",
-              "Automatizé flujos de trabajo para mayor eficiencia.",
-              "Alineé infraestructura con necesidades del negocio."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Invisible Technologies",
-        "link": "https://invisible.co",
-        "badges": ["Remoto"],
-        "jobs": [
-          {
-            "title": "Operador & Entrenador de IA Avanzada",
-            "start": "May, 2024",
-            "end": "Ago, 2024",
-            "description": [
-              "Gestioné las operaciones del sistema de IA para asegurar un rendimiento óptimo.",
-              "Entrené modelos de IA avanzados para mejorar la precisión del sistema.",
-              "Colaboré con equipos multifuncionales para desarrollar soluciones de IA.",
-              "Analizé datos para mejorar las metodologías de entrenamiento de IA.",
-              "Implementé retroalimentación para refinar continuamente los modelos de IA."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "BaseHub",
-        "link": "https://basehub.com",
-        "badges": ["Remoto"],
-        "jobs": [
-          {
-            "title": "Relaciones con Desarrolladores",
-            "start": "Mar, 2024",
-            "end": "Ago, 2024",
-            "description": [
-              "Asistí a los desarrolladores en la creación de aplicaciones utilizando BaseHub CMS e IA nativa.",
-              "Proporcioné soporte técnico y orientación a los desarrolladores.",
-              "Creé documentación y tutoriales para una mejor comprensión del producto.",
-              "Organizé y conduje seminarios web y talleres.",
-              "Interactué con la comunidad de desarrolladores para recopilar retroalimentación y mejorar el producto."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Smat.io",
-        "link": "https://smat.io",
-        "badges": ["Remoto"],
-        "jobs": [
-          {
-            "title": "Tester de QA & Desarrollador Frontend",
-            "start": "Ago, 2022",
-            "end": "Ago, 2023",
-            "description": [
-              "Lideré pruebas de QA utilizando Jest y Playwright para garantizar la calidad de las aplicaciones web.",
-              "Implementé prácticas de Desarrollo Orientado por Pruebas (TDD).",
-              "Desarrollé interfaces de usuario amigables con React.js.",
-              "Colaboré con desarrolladores para optimizar la calidad del código.",
-              "Realizé seguimiento de errores y resolución de problemas."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Maker DAO",
-        "link": "https://makerdao.com",
-        "badges": ["Remoto"],
-        "jobs": [
-          {
-            "title": "Redactor Técnico y Traductor",
-            "start": "Feb, 2022",
-            "end": "Ago, 2022",
-            "description": [
-              "Redacté documentación técnica, incluyendo libros blancos, guías y tutoriales.",
-              "Traduje contenido técnico complejo para audiencias diversas.",
-              "Facilité la comprensión del usuario sobre conceptos de blockchain y DeFi.",
-              "Colaboré con expertos en la materia para asegurar la precisión.",
-              "Mantuve y actualizé la documentación según fuera necesario."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "El Chaperón",
-        "badges": ["Presencial"],
-        "jobs": [
-          {
-            "title": "Diseñador Web & Community Manager",
-            "start": "Ene, 2019",
-            "end": "Dic, 2021",
-            "description": [
-              "Desarrollé y diseñé sitios web responsivos utilizando WordPress.",
-              "Gestioné servicios turísticos en línea para la ciudad de Rosario.",
-              "Coordiné con la Asociación Hotelera de Rosario y la Entidad de Turismo (ETUR).",
-              "Creé contenido atractivo para el alcance comunitario.",
-              "Implementé estrategias de SEO para mejorar la visibilidad del sitio web."
+              "Merombak ulang kode ERP legacy, menghapus 1.000+ baris redundan dan mengurangi duplikasi sebesar 35% untuk meningkatkan maintainability.",
+              "Mengoptimalkan logika bisnis utama menggunakan hash-based lookup, meningkatkan kompleksitas waktu dari O(n²) menjadi O(n) dan mempercepat eksekusi hingga 90%.",
+              "Meningkatkan responsivitas UI dan alur navigasi, menghasilkan pengalaman pengguna yang lebih mulus dan konsisten.",
+              "Berkolaborasi dengan engineer backend untuk meningkatkan konsistensi data dan skalabilitas."
             ]
           },
           {
-            "title": "Asesor Comercial",
-            "start": "Ene, 2016",
-            "end": "Dic, 2018",
+            "title": "Full-Stack Developer ERP",
+            "start": "Sep, 2024",
+            "end": "Des, 2024",
             "description": [
-              "Mantuve la base de datos de clientes para asegurar la precisión.",
-              "Ejecuté estrategias de marketing para atraer clientes.",
-              "Gestioné servicios y aseguré la satisfacción del cliente.",
-              "Diseñé e implementé campañas promocionales con el equipo de marketing.",
-              "Analizé retroalimentación y tendencias para mejorar servicios y marketing."
+              "Mengembangkan dan mengintegrasikan sistem ERP dan DFD berdasarkan prototipe UI/UX, menyelesaikan proyek 12.5% lebih cepat dari jadwal.",
+              "Meningkatkan komunikasi dengan Product Manager, mengurangi miskomunikasi workflow sebesar 45%.",
+              "Melakukan pengujian end-to-end dan debugging pada 5+ modul kritis, meningkatkan stabilitas dan performa sistem.",
+              "Merombak kode backend dan frontend untuk keterbacaan dan reusability yang lebih baik, meningkatkan maintainability sebesar 30%."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Self Employed",
+        "link": "https://invisible.co",
+        "badges": ["Remote"],
+        "jobs": [
+          {
+            "title": "Frontend Web Developer",
+            "start": "Mar, 2023",
+            "end": "Jul, 2023",
+            "description": [
+              "Membangun dan memelihara fitur face recognition dan validasi lokasi (PNPOLY), meningkatkan akurasi absensi bagi klien.",
+              "Berkolaborasi dengan developer backend untuk mengurangi waktu load aplikasi sebesar 20%.",
+              "Membuat dokumentasi fitur yang detail, mengurangi kesalahan tim sebesar 30% dan meningkatkan produktivitas 20%.",
+              "Memimpin meeting klien mingguan selama 45 menit untuk memastikan transparansi dan progres tepat waktu.",
+              "Menyajikan demo proyek kepada klien, meningkatkan kepuasan dan retensi."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "We Up Indonesia",
+        "link": "https://basehub.com",
+        "badges": ["Hybrid"],
+        "jobs": [
+          {
+            "title": "Frontend Web Developer",
+            "start": "Okt, 2022",
+            "end": "Des, 2022",
+            "description": [
+              "Bertanggung jawab untuk slicing dan membangun website company profile.",
+              "Menyiapkan presentasi tentang 7+ topik frontend web development untuk meeting mingguan.",
+              "Melakukan standing meeting 15 menit untuk melaporkan progres.",
+              "Berkoordinasi dan meningkatkan kerja sama dalam tim terdiri dari 11+ anggota lintas divisi."
             ]
           }
         ]
@@ -207,538 +134,205 @@
     ]
   },
   "projects": {
-    "title": "Proyectos & Trabajos",
-    "not-found": "No se encontraron proyectos",
-    "preview": "Vista previa",
+    "title": "Proyek & Karya",
+    "not-found": "Tidak ada proyek ditemukan",
+    "preview": "Pratinjau",
     "github": "GitHub",
     "items": [
       {
-        "title": "BaseHub - Blog de Next.js",
+        "title": "detikcom | MagangHub Batch 2 Recruitment Automation",
         "tags": [
-          { "name": "BaseHub", "icon": "BasehubIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vercel", "icon": "VercelIcon" }
+          { "name": "Pandas", "icon": "PandasIcon" },
+          { "name": "Python", "icon": "PythonIcon" },
+          { "name": "n8n", "icon": "N8nIcon" },
+          { "name": "Google Sheets", "icon": "GoogleSheetIcon" }
         ],
-        "description": "Una plantilla de guía inicial para blog hecha con Next.js y BaseHub CMS. Utiliza la API de BaseHub para obtener y mostrar publicaciones.",
-        "link": {
-          "github": "https://github.com/basehub-ai/nextjs-blog",
-          "preview": "https://nextjs-blog-basehub.vercel.app"
-        },
-        "image": "/projects/images/basehub-nextjs-blog.png"
+        "description": "Proyek untuk mengotomatisasi proses rekrutmen MagangHub Batch 2 menggunakan n8n untuk mempermudah pengumpulan, pemrosesan, dan evaluasi data kandidat. Sistem automasi ini mengintegrasikan scraping data, orkestrasi workflow, dan optimasi tools internal untuk meningkatkan efisiensi dan mengurangi tugas manual."
       },
       {
-        "title": "Desafío Basement",
+        "title": "detikcom | Transmedia Assessment",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
+          { "name": "Linux", "icon": "LinuxIcon" },
+          { "name": "Docker", "icon": "DockerIcon" },
+          { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
-        "description": "Desafío del stream de Basement studio.",
-        "link": {
-          "github": "https://github.com/emapeire/basement-challenge",
-          "preview": "https://emapeire-basement-challenge.vercel.app"
-        },
-        "image": "/projects/images/basement-challenge.png"
+        "description": "Platform psikometrik berbasis web untuk mendukung proses rekrutmen detikcom. Sistem memungkinkan kandidat mengerjakan tes psikologi online, sementara tim HR dapat mengelola modul tes, memantau progres, dan meninjau hasil scoring otomatis."
       },
       {
-        "title": "Chat con Vader",
+        "title": "detikcom | Learning Management System",
         "tags": [
+          { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "Moodle", "icon": "MoodleIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
-        ],
-        "description": "Una aplicación de chat simple que usa la API de OpenAI y Vercel AI SDK para chatear con Darth Vader.",
-        "link": {
-          "github": "https://github.com/emapeire/chat-with-vader"
-        },
-        "image": "/projects/images/chat-with-vader.png"
-      },
-      {
-        "title": "Chat Cohere",
-        "tags": [
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Node.js", "icon": "NodeJSIcon" }
-        ],
-        "description": "Un chatbot que usa la API de Cohere para generar respuestas a la entrada del usuario.",
-        "link": {
-          "github": "https://github.com/emapeire/cohere-chat"
-        },
-        "image": "/projects/images/cohere-chat.png"
-      },
-      {
-        "title": "App de Comentarios",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Una aplicación de comentarios simple hecha con React y Vite.",
-        "link": {
-          "github": "https://github.com/emapeire/comments-react-query"
-        },
-        "image": "/projects/images/comments-app.png"
-      },
-      {
-        "title": "App CRUD",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Redux", "icon": "ReduxIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Una aplicación CRUD simple hecha con React y Vite.",
-        "link": {
-          "github": "https://github.com/emapeire/crud-react-redux",
-          "preview": "https://emapeire-crud-react-redux.netlify.app"
-        },
-        "image": "/projects/images/crud-app.png"
-      },
-      {
-        "title": "Chat JavaScript Elocuente",
-        "tags": [
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Shadcn/ui", "icon": "ShadcnIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
-        ],
-        "description": "En esta aplicación podrás interactuar con una llama inteligente que responderá tus preguntas sobre JavaScript.",
-        "link": {
-          "github": "https://github.com/emapeire/eloquent-js-chat"
-        },
-        "image": "/projects/images/eloquent-js-chat.png"
-      },
-      {
-        "title": "Interfaz Google Translate",
-        "tags": [
+          { "name": "SQLite", "icon": "SQLiteIcon" },
           { "name": "Bootstrap", "icon": "BootstrapIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
+          { "name": "Gitlab", "icon": "GitlabIcon" }
+        ],
+        "description": "Learning Management System untuk meningkatkan efisiensi pembelajaran dan pelatihan internal detikcom. Platform ini memungkinkan manajemen kursus, keterlibatan peserta, dan pelacakan progres dalam lingkungan yang terstruktur.",
+        "link": {
+          "preview": "https://learning.detik.com/frontpage/"
+        },
+        "image": "/projects/images/learning-management-system.webp"
+      },
+      {
+        "title": "SIPEDAK | Student Activity Fund Management System",
+        "tags": [
+          { "name": "Next.js", "icon": "NextJSIcon" },
           { "name": "React", "icon": "ReactIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" },
-          { "name": "Vitest", "icon": "VitestIcon" }
+          { "name": "Laravel", "icon": "LaravelIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
+          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
+          { "name": "Github", "icon": "GithubIcon" }
         ],
-        "description": "Esta es una API simple que usa el modelo GPT-4-vision-preview de OpenAI para generar código a partir de imágenes.",
+        "description": "SIPEDAK adalah sistem informasi berbasis web yang dirancang untuk mendigitalkan seluruh proses mulai dari pengajuan proposal hingga laporan pertanggungjawaban kegiatan mahasiswa. Sistem ini meningkatkan efisiensi dan transparansi melalui fitur budgeting, tracking revisi, dan pembuatan laporan.",
         "link": {
-          "github": "https://github.com/emapeire/google-translate-clone"
+          "preview": "https://sipedak.atmaluhur.ac.id/login"
         },
-        "image": "/projects/images/google-translate-clone.png"
+        "image": "/projects/images/sipedak.webp"
       },
       {
-        "title": "Imagen a Código",
+        "title": "Contrihub | detikcom Contributors Management System",
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Shadcn/ui", "icon": "ShadcnIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
-        ],
-        "description": "Esta es una herramienta que convierte imágenes en código. Usa IA para generar código a partir de imágenes. Está basada en el modelo GPT-4-vision-preview.",
-        "link": {
-          "github": "https://github.com/emapeire/image-to-code"
-        },
-        "video": "/projects/videos/image-2-code.webm"
-      },
-      {
-        "title": "Quiz de JavaScript",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
           { "name": "React", "icon": "ReactIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Una aplicación de quiz simple hecha con React y Zustand.",
-        "link": {
-          "github": "https://github.com/emapeire/javascript-quiz",
-          "preview": "https://emapeire-javascript-quiz.netlify.app"
-        },
-        "image": "/projects/images/javascript-quiz.png"
-      },
-      {
-        "title": "Desafío Mercado Libre",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
+          { "name": "Laravel", "icon": "LaravelIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          { "name": "Postman", "icon": "PostmanIcon" },
+          { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
-        "description": "Desafío para crear una aplicación de búsqueda de productos usando la API de Mercado Libre. Construida con Next.js y TypeScript.",
+        "description": "Aplikasi manajemen kontributor berita untuk mengatur pendaftaran kontributor, verifikasi berita, hingga manajemen honor.",
         "link": {
-          "github": "https://github.com/emapeire/meli-challenge",
-          "preview": "https://emapeire-meli-challenge.vercel.app"
+          "preview": "https://kontri.detik.com/"
         },
-        "image": "/projects/images/meli-challenge.png"
+        "image": "/projects/images/contrihub.webp"
       },
       {
-        "title": "Seguidor del Mouse",
+        "title": "Employee Attendance System",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Una aplicación simple que sigue el mouse hecha con React y Vite.",
-        "link": {
-          "github": "https://github.com/emapeire/mouse-follower",
-          "preview": "https://emapeire-mouse-follower.netlify.app"
-        },
-        "video": "/projects/videos/mouse-follower.webm"
-      },
-      {
-        "title": "Personajes de Morty",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "GraphQL", "icon": "GraphQLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
-        ],
-        "description": "Una aplicación simple que lista todos los personajes de Morty. Construida con Next.js y GraphQL.",
-        "link": {
-          "github": "https://github.com/emapeire/nextjs-graphql",
-          "preview": "https://emapeire-nextjs-graphql.vercel.app"
-        },
-        "image": "/projects/images/morty-s-characters.png"
-      },
-      {
-        "title": "Buscador de Películas",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Una aplicación simple para buscar películas hecha con React y Vite.",
-        "link": {
-          "github": "https://github.com/emapeire/react-movie-search",
-          "preview": "https://emapeire-react-movie-search.netlify.app"
-        },
-        "image": "/projects/images/movie-search.png"
-      },
-      {
-        "title": "App de Chat Next.js",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Shadcn/ui", "icon": "ShadcnIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
-        ],
-        "description": "NextJS-Chat ofrece a los principiantes una interfaz basada en chat para aprender Next.js y mejores prácticas de codificación a través de un experto en IA.",
-        "link": {
-          "github": "https://github.com/nextjsargentina/next.js-chat"
-        },
-        "video": "/projects/videos/nextjs-chat.webm"
-      },
-      {
-        "title": "App de Versiones Next.js",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Shadcn/ui", "icon": "ShadcnIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
-        ],
-        "description": "NextJS Releases es una aplicación que rastrea nuevas versiones en el repositorio de GitHub de NextJS.",
-        "link": {
-          "github": "https://github.com/nextjsargentina/next.js-releases",
-          "preview": "https://nextjs-releases.vercel.app"
-        },
-        "image": "/projects/images/nextjs-releases-app.png"
-      },
-      {
-        "title": "React GPT",
-        "tags": [
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "React", "icon": "ReactIcon" }
-        ],
-        "description": "Un experto en ingeniería web impulsado por IA para la comunidad de React.",
-        "link": {
-          "preview": "https://chat.openai.com/g/g-HNcbE0A5n-reactgpt"
-        },
-        "image": "/projects/images/react-gpt.png"
-      },
-      {
-        "title": "Grabador de Pantalla",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" }
-        ],
-        "description": "Grabador de pantalla nativo hecho con la API web MediaRecorder",
-        "link": {
-          "github": "https://github.com/emapeire/screen-recorder"
-        },
-        "video": "/projects/videos/screen-recorder.webm"
-      },
-      {
-        "title": "Carrito de Compras",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Una aplicación simple de carrito de compras hecha con React y Vite.",
-        "link": {
-          "github": "https://github.com/emapeire/shopping-cart",
-          "preview": "https://emapeire-shopping-cart.netlify.app"
-        },
-        "image": "/projects/images/shopping-cart.png"
-      },
-      {
-        "title": "Lanzamientos de SpaceX",
-        "tags": [
-          { "name": "Astro", "icon": "AstroIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
-        ],
-        "description": "Una aplicación simple que lista todos los lanzamientos de SpaceX. Construida con Astro y TypeScript.",
-        "link": {
-          "github": "https://github.com/emapeire/spacex-launches",
-          "preview": "https://emapeire-spacex-launches.vercel.app"
-        },
-        "image": "/projects/images/spacex-launches.png"
-      },
-      {
-        "title": "Interfaz Spotify",
-        "tags": [
-          { "name": "Astro", "icon": "AstroIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Svelte", "icon": "SvelteIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
-        ],
-        "description": "Un clon de Spotify de código abierto construido con Svelte y Astro.",
-        "link": {
-          "github": "https://github.com/emapeire/spotify-clone",
-          "preview": "https://emapeire-spotify-clone.vercel.app"
-        },
-        "image": "/projects/images/spotify-clone.png"
-      },
-      {
-        "title": "SWC Router",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "SWC", "icon": "SWCIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Aplicaciones de página única (SPA) simples con facilidad usando swc-router. Esta solución de enrutamiento liviana para aplicaciones React aprovecha la velocidad de SWC.",
-        "link": {
-          "github": "https://github.com/emapeire/swc-router",
-          "preview": "https://npmjs.com/package/swc-router"
-        },
-        "image": "/projects/images/swc-router.png"
-      },
-      {
-        "title": "API View Transitions",
-        "tags": [
-          { "name": "Astro", "icon": "AstroIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" }
-        ],
-        "description": "Este es un proyecto de muestra que demuestra cómo usar la API View Transitions con Astro.",
-        "link": {
-          "github": "https://github.com/emapeire/view-transitions-api",
-          "preview": "https://emapeire-view-transitions-api.vercel.app"
-        },
-        "video": "/projects/videos/view-transitions-api.webm"
-      },
-      {
-        "title": "Interfaz Landing Tesla",
-        "tags": [
-          { "name": "Astro", "icon": "AstroIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" }
-        ],
-        "description": "Una página de aterrizaje de Tesla de código abierto construida con Astro y Tailwind CSS.",
-        "link": {
-          "github": "https://github.com/emapeire/tesla-landing",
-          "preview": "https://emapeire-tesla-landing.vercel.app"
-        },
-        "video": "/projects/videos/tesla-landing-clone.webm"
-      },
-      {
-        "title": "Tres en Raya",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Un juego simple de tres en raya hecho con React y TypeScript.",
-        "link": {
-          "github": "https://github.com/emapeire/tic-tac-toe",
-          "preview": "https://emapeire-tic-tac-toe.netlify.app"
-        },
-        "image": "/projects/images/tic-tac-toe.png"
-      },
-      {
-        "title": "App de Tareas",
-        "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
+          { "name": "Angular", "icon": "AngularIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
-        ],
-        "description": "Una aplicación simple de tareas hecha con React y TypeScript.",
-        "link": {
-          "github": "https://github.com/emapeire/todo-app-ts",
-          "preview": "https://emapeire-todo-ts.netlify.app"
-        },
-        "image": "/projects/images/todo-app-ts.png"
-      },
-      {
-        "title": "Tarjeta de Seguir Twitter",
-        "tags": [
+          { "name": "Node.js", "icon": "NodeJSIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          { "name": "Github", "icon": "GithubIcon" }
         ],
-        "description": "Una tarjeta de seguir de Twitter de código abierto construida con React y Vite.",
-        "link": {
-          "github": "https://github.com/emapeire/twitter-follow-card",
-          "preview": "https://emapeire-twitter-follow-card.netlify.app"
-        },
-        "image": "/projects/images/twitter-follow-card.png"
+        "description": "Proyek freelance untuk membuat sistem absensi karyawan yang aman dan efisien dengan menggabungkan face recognition (face-api.js) dan validasi lokasi (pnpoly).",
+        "image": "/projects/images/employee-attendance-system.webp"
       },
       {
-        "title": "Interfaz Twitter",
+        "title": "Sorting-Visualization",
         "tags": [
+          { "name": "Vue", "icon": "VueIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Supabase", "icon": "SupabaseIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          { "name": "CSS", "icon": "CSSIcon" }
         ],
-        "description": "Un clon de Twitter de código abierto construido con Next.js y Supabase.",
+        "description": "Proyek untuk memvisualisasikan cara kerja berbagai algoritma sorting.",
         "link": {
-          "github": "https://github.com/emapeire/twitter-clone"
+          "github": "https://github.com/Tyn-Tian/sorting-visualizer",
+          "preview": "https://sorting-visualization-93abb.web.app/"
         },
-        "image": "/projects/images/twitter-clone.png"
+        "image": "/projects/images/sorting-visualization.webp"
+      },
+      {
+        "title": "Todo-Apps",
+        "tags": [
+          { "name": "Vue", "icon": "VueIcon" },
+          { "name": "Vuex", "icon": "VuexIcon" },
+          { "name": "JavaScript", "icon": "JavaScriptIcon" },
+          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Vite", "icon": "ViteIcon" }
+        ],
+        "description": "Aplikasi todo sederhana yang dibuat dengan Vue dan Vuex.",
+        "link": {
+          "github": "https://github.com/Tyn-Tian/Todo-Apps",
+          "preview": "https://todoapps-vuejs.web.app/"
+        },
+        "image": "/projects/images/todo-apps.webp"
       }
     ]
   },
   "contact": {
-    "title": "Contáctame",
-    "description": "No dudes en ponerte en contacto conmigo para preguntas, consultas o colaboraciones. Estoy abierto a nuevas oportunidades y desafíos.",
+    "title": "Hubungi saya",
+    "description": "Jangan ragu untuk menghubungi saya untuk pertanyaan, kerja sama, atau peluang lainnya. Terbuka untuk tantangan baru.",
     "form": {
-      "message-watch": "El mensaje no debe contener URLs",
+      "message-watch": "Pesan tidak boleh mengandung URL",
       "on-submit": {
-        "title": "Spam detectado",
-        "description": "Por favor, completa el formulario correctamente y sin spam. ¡Gracias!"
+        "title": "Spam terdeteksi",
+        "description": "Silakan isi formulir dengan benar tanpa spam. Terima kasih!"
       },
       "ok": {
-        "title": "Correo enviado",
-        "description": "¡Me pondré en contacto contigo lo antes posible!"
+        "title": "Email terkirim",
+        "description": "Saya akan segera menghubungi Anda!"
       },
       "error": {
-        "title": "Error",
-        "description": "Hubo un error al enviar el correo. Por favor, inténtalo de nuevo más tarde."
+        "title": "Kesalahan",
+        "description": "Terjadi kesalahan saat mengirim email. Silakan coba lagi nanti."
       },
-      "card-description": "Por favor, completa el formulario a continuación y me pondré en contacto contigo lo antes posible.",
-      "first-name": "Nombre",
-      "first-name-placeholder": "Tu nombre",
-      "last-name": "Apellido",
-      "last-name-placeholder": "Tu apellido",
-      "email-placeholder": "Tu dirección de correo electrónico",
-      "message": "Mensaje",
-      "message-placeholder": "Escribe tu mensaje aquí...",
-      "submit": "Enviar",
+      "card-description": "Silakan isi formulir di bawah ini dan saya akan segera menghubungi Anda.",
+      "first-name": "Nama depan",
+      "first-name-placeholder": "Nama depan Anda",
+      "last-name": "Nama belakang",
+      "last-name-placeholder": "Nama belakang Anda",
+      "email-placeholder": "Alamat email Anda",
+      "message": "Pesan",
+      "message-placeholder": "Masukkan pesan Anda di sini...",
+      "submit": "Kirim",
       "validation": {
         "first-name": {
-          "min": "El nombre debe tener al menos 2 caracteres.",
-          "max": "El nombre debe tener menos de 50 caracteres.",
-          "regex": "El nombre debe contener solo letras."
+          "min": "Nama depan minimal 2 karakter.",
+          "max": "Nama depan harus kurang dari 50 karakter.",
+          "regex": "Nama depan hanya boleh berisi huruf."
         },
         "last-name": {
-          "min": "El apellido debe tener al menos 2 caracteres.",
-          "max": "El apellido debe tener menos de 50 caracteres.",
-          "regex": "El apellido debe contener solo letras."
+          "min": "Nama belakang minimal 2 karakter.",
+          "max": "Nama belakang harus kurang dari 50 karakter.",
+          "regex": "Nama belakang hanya boleh berisi huruf."
         },
         "email": {
-          "email": "El correo electrónico debe ser una dirección válida.",
-          "min": "El correo electrónico debe tener al menos 5 caracteres.",
-          "max": "El correo electrónico debe tener menos de 100 caracteres."
+          "email": "Email harus berupa alamat email yang valid.",
+          "min": "Email minimal 5 karakter.",
+          "max": "Email harus kurang dari 100 karakter."
         },
         "message": {
-          "min": "El mensaje debe tener al menos 10 caracteres.",
-          "max": "El mensaje debe tener menos de 500 caracteres.",
-          "refine": "El mensaje no debe contener URLs."
+          "min": "Pesan minimal 10 karakter.",
+          "max": "Pesan harus kurang dari 500 karakter.",
+          "refine": "Pesan tidak boleh mengandung URL."
         }
       }
     }
   },
   "pagination": {
-    "next": "Siguiente",
-    "previous": "Anterior"
+    "next": "Berikutnya",
+    "previous": "Sebelumnya"
   },
   "footer": {
-    "copyrights": "Todos los derechos reservados."
+    "copyrights": "Hak cipta dilindungi."
   },
   "lang-switcher": {
-    "label": "Idioma",
+    "label": "Bahasa",
     "options": {
-      "en": "Inglés",
-      "es": "Español"
+      "en": "Inggris",
+      "es": "Indonesia"
     }
   },
   "mode-toggle": {
-    "light": "Claro",
-    "dark": "Oscuro",
-    "system": "Sistema",
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem",
     "label": "Tema"
   },
   "not-found": {
     "title": "404",
-    "description": "Felicitaciones! Encontraste una página que no existe. 🎉",
-    "button": "Volver al inicio"
+    "description": "Selamat! Anda menemukan halaman yang tidak ada. 🎉",
+    "button": "Kembali ke beranda"
   }
 }

@@ -46,24 +46,24 @@ export function Header() {
           ))}
         </nav>
 
-        {/* <DropdownMenu>
+        <DropdownMenu>
           <DropdownMenuTrigger asChild>
             <Button
-              aria-label={t('header.settings')}
-              variant='ghost'
-              size='icon'
-              className='relative size-9 transition-transform duration-300 group'
+              aria-label={t("header.settings")}
+              variant="ghost"
+              size="icon"
+              className="relative size-9 transition-transform duration-300 group"
             >
-              <Cog className='h-[1.5rem] w-[1.5rem] stroke-[1.5] transform group-hover:rotate-45 transition-transform duration-300' />
-              <span className='sr-only'>{t('header.settings')}</span>
+              <Cog className="h-[1.5rem] w-[1.5rem] stroke-[1.5] transform group-hover:rotate-45 transition-transform duration-300" />
+              <span className="sr-only">{t("header.settings")}</span>
             </Button>
           </DropdownMenuTrigger>
-          <DropdownMenuContent align='end' side='bottom' className='mt-4'>
+          <DropdownMenuContent align="end" side="bottom" className="mt-4">
             <LangSwitcher />
             <DropdownMenuSeparator />
+            <ModeToggle />
           </DropdownMenuContent>
-        </DropdownMenu> */}
-        <ModeToggle />
+        </DropdownMenu>
       </div>
     </header>
   );

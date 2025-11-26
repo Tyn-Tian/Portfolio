@@ -13,6 +13,7 @@ import {
 import { UsFlagIcon } from '@/components/icons/lang/us-flag'
 import { ArFlagIcon } from '@/components/icons/lang/ar-flag'
 import { type Locale } from '@/i18n'
+import { IdFlagIcon } from './icons/lang/id-flag'
 
 export function LangSwitcher() {
   const locale = useLocale()
@@ -40,7 +41,7 @@ export function LangSwitcher() {
           {locale === 'en' ? (
             <UsFlagIcon className='h-[1.5rem] w-[1.5rem]' />
           ) : (
-            <ArFlagIcon className='h-[1.5rem] w-[1.5rem]' />
+            <IdFlagIcon className='h-[1.5rem] w-[1.5rem]' />
           )}
           <span className='sr-only'>{t('lang-switcher.label')}</span>
         </Button>

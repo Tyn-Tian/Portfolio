@@ -9,6 +9,7 @@ import {
   DropdownMenuContent,
   DropdownMenuCheckboxItem,
   DropdownMenuTrigger,
+  DropdownMenuLabel,
 } from '@/components/ui/dropdown-menu'
 
 export function ModeToggle() {
@@ -22,8 +23,12 @@ export function ModeToggle() {
           variant='ghost'
           aria-label={t('mode-toggle.label')}
           size={null}
-          className='flex justify-between px-2 py-1 rounded transition-transform duration-300 group'
+          className='w-full mx-auto flex justify-between px-2 py-1 rounded transition-transform duration-300 group'
         >
+          <DropdownMenuLabel className='p-0'>
+            {t('mode-toggle.label')}
+          </DropdownMenuLabel>
+
           <div className='relative h-[1.5rem] w-[1.5rem]'>
             <Sun className='absolute h-full w-full stroke-[1.5] scale-100 dark:scale-0 transform group-hover:rotate-45 transition-transform duration-300' />
             <Moon className='absolute h-full w-full stroke-[1.5] scale-0 dark:scale-100 transform group-hover:rotate-45 transition-transform duration-300' />
