@@ -154,6 +154,7 @@
           { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
+          { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Linux", "icon": "LinuxIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
