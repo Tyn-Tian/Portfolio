@@ -139,6 +139,19 @@
     "github": "GitHub",
     "items": [
       {
+        "title": "detikJobs",
+        "tags": [
+          { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
+          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Linux", "icon": "LinuxIcon" },
+          { "name": "Docker", "icon": "DockerIcon" },
+          { "name": "Gitlab", "icon": "GitlabIcon" }
+        ],
+        "description": "detikJobs is a centralized application for managing job listings, work assignments, and attendance for interns and freelancers. It enables organizations to publish openings, assign tasks, and monitor work activities efficiently and transparently."
+      },
+      {
         "title": "detikcom | MagangHub Recruitment Automation",
         "tags": [
           { "name": "Pandas", "icon": "PandasIcon" },

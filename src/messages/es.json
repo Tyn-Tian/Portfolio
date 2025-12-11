@@ -139,6 +139,19 @@
     "github": "GitHub",
     "items": [
       {
+        "title": "detikJobs",
+        "tags": [
+          { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
+          { "name": "PHP", "icon": "PHPIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
+          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Linux", "icon": "LinuxIcon" },
+          { "name": "Docker", "icon": "DockerIcon" },
+          { "name": "Gitlab", "icon": "GitlabIcon" }
+        ],
+        "description": "detikJobs adalah aplikasi terpusat untuk mengelola job listing, tugas kerja, dan absensi bagi pemagang dan freelancer. Platform ini memudahkan organisasi dalam mempublikasikan lowongan, membagi tugas, dan memantau aktivitas kerja secara efisien dan transparan."
+      },
+      {
         "title": "detikcom | MagangHub Recruitment Automation",
         "tags": [
           { "name": "Pandas", "icon": "PandasIcon" },
