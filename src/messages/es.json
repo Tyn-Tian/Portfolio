@@ -38,7 +38,11 @@
             "title": "Full Stack Developer",
             "start": "Nov, 2025",
             "end": "Sekarang",
-            "description": ["Segera hadir..."]
+            "description": [
+              "Meningkatkan kecepatan pengembangan hingga 3x lebih cepat melalui implementasi strategis GitHub Copilot, mengurangi pekerjaan repetitif dan meningkatkan produktivitas tim secara signifikan.",
+              "Berkolaborasi secara aktif dengan stakeholder untuk memahami kebutuhan bisnis dan menerjemahkannya menjadi solusi teknis yang scalable, memastikan keselarasan antara ekspektasi pengguna dan implementasi sistem.",
+              "Mengoptimalkan performa database dan penggunaan resource server dengan mengatasi permasalahan kritis “Too Many Connections” pada Project Assessment, sehingga meningkatkan stabilitas sistem dan efisiensi infrastruktur."
+            ]
           },
           {
             "title": "Back-end Developer",
@@ -141,15 +145,18 @@
       {
         "title": "detikJobs",
         "tags": [
-          { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
+          { "name": "React", "icon": "ReactIcon" },
+          { "name": "TypeScript", "icon": "TypeScriptIcon" },
+          { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
+          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
           { "name": "Linux", "icon": "LinuxIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
-          { "name": "Gitlab", "icon": "GitlabIcon" }
+          { "name": "Gitlab", "icon": "GitlabIcon" },
+          { "name": "Copilot", "icon": "CopilotIcon" }
         ],
-        "description": "detikJobs adalah aplikasi terpusat untuk mengelola job listing, tugas kerja, dan absensi bagi pemagang dan freelancer. Platform ini memudahkan organisasi dalam mempublikasikan lowongan, membagi tugas, dan memantau aktivitas kerja secara efisien dan transparan."
+        "description": "detikjobs adalah portal lowongan kerja dan sistem manajemen rekrutmen komprehensif yang dikembangkan di detikcom. Platform ini memfasilitasi seluruh proses rekrutmen melalui integrasi langsung dengan Transmedia Assessment, memastikan alur yang efisien mulai dari pemasangan loker hingga evaluasi kandidat. Dengan mengoptimalkan stabilitas backend dan memperbarui sistem legacy dari PHP 5 ke 7.4, proyek ini menyediakan solusi berbasis data yang tangguh untuk kebutuhan rekrutmen skala perusahaan besar."
       },
       {
         "title": "detikcom | MagangHub Recruitment Automation",

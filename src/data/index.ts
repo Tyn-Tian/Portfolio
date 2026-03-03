@@ -44,6 +44,7 @@ import { N8nIcon } from '@/components/icons/tags/n8n'
 import { GoogleSheetIcon } from '@/components/icons/tags/google-sheet'
 import { PythonIcon } from '@/components/icons/tags/python'
 import { PandasIcon } from '@/components/icons/tags/pandas'
+import { CopilotIcon } from '@/components/icons/tags/copilot'
 
 export const AVATAR = {
   name: 'Christian',
@@ -123,5 +124,6 @@ export const iconMap: Record<string, IconComponent> = {
   N8nIcon,
   GoogleSheetIcon,
   PythonIcon,
-  PandasIcon
+  PandasIcon,
+  CopilotIcon
 }
