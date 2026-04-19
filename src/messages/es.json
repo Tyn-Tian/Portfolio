@@ -143,6 +143,19 @@
     "github": "GitHub",
     "items": [
       {
+        "title": "TynFlow",
+        "tags": [
+          { "name": "Next.js", "icon": "NextJSIcon" },
+          { "name": "TypeScript", "icon": "TypeScriptIcon" },
+          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
+          { "name": "Vercel", "icon": "VercelIcon" },
+          { "name": "GitHub", "icon": "GithubIcon" },
+          { "name": "Supabase", "icon": "SupabaseIcon" },
+          { "name": "Copilot", "icon": "CopilotIcon" }
+        ],
+        "description": "Aplikasi berbasis web yang dirancang untuk membantu pengguna mengelola keuangan pribadi secara efisien. Platform ini memungkinkan pengguna untuk melacak pemasukan dan pengeluaran, membuat serta mengelola anggaran, dan memantau aktivitas keuangan secara real-time. Aplikasi ini juga menyediakan wawasan terstruktur untuk mendukung pengambilan keputusan keuangan yang lebih baik serta meningkatkan kebiasaan dalam mengelola anggaran."
+      },
+      {
         "title": "detikJobs",
         "tags": [
           { "name": "React", "icon": "ReactIcon" },

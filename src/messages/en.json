@@ -143,6 +143,19 @@
     "github": "GitHub",
     "items": [
       {
+        "title": "TynFlow",
+        "tags": [
+          { "name": "Next.js", "icon": "NextJSIcon" },
+          { "name": "TypeScript", "icon": "TypeScriptIcon" },
+          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
+          { "name": "Vercel", "icon": "VercelIcon" },
+          { "name": "GitHub", "icon": "GithubIcon" },
+          { "name": "Supabase", "icon": "SupabaseIcon" },
+          { "name": "Copilot", "icon": "CopilotIcon" }
+        ],
+        "description": "A web-based application designed to help users manage their personal finances efficiently. The platform allows users to track income and expenses, create and manage budgets, and monitor financial activities in real time. It provides structured insights to support better financial decision-making and improve overall budgeting habits."
+      },
+      {
         "title": "detikJobs",
         "tags": [
           { "name": "React", "icon": "ReactIcon" },
