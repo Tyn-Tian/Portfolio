@@ -153,7 +153,10 @@
           { "name": "Supabase", "icon": "SupabaseIcon" },
           { "name": "Copilot", "icon": "CopilotIcon" }
         ],
-        "description": "A web-based application designed to help users manage their personal finances efficiently. The platform allows users to track income and expenses, create and manage budgets, and monitor financial activities in real time. It provides structured insights to support better financial decision-making and improve overall budgeting habits."
+        "description": "A web-based application designed to help users manage their personal finances efficiently. The platform allows users to track income and expenses, create and manage budgets, and monitor financial activities in real time. It provides structured insights to support better financial decision-making and improve overall budgeting habits.",
+        "link": {
+          "github": "https://github.com/Tyn-Tian/TynFlow"
+        }
       },
       {
         "title": "detikJobs",
