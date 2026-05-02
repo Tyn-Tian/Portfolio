@@ -30,6 +30,19 @@
     "viewMore": "Lihat lebih banyak",
     "companies": [
       {
+        "company": "PT Jeje Harapan Transindo",
+        "link": "https://github.com/thefrontendlab",
+        "badges": ["On-site"],
+        "jobs": [
+          {
+            "title": "Full Stack Developer",
+            "start": "Mei, 2025",
+            "end": "Sekarang",
+            "description": []
+          }
+        ]
+      },
+      {
         "company": "detikcom",
         "link": "https://estudiocabeza.com",
         "badges": ["On-site"],
