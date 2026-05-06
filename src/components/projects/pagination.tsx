@@ -10,12 +10,10 @@ import { useTranslations } from 'next-intl'
 
 export function ProjectPagination({
   page,
-  totalPages,
-  updatePage
+  totalPages
 }: {
   page: number
   totalPages: number
-  updatePage: (page: number) => void
 }) {
   const t = useTranslations()
 
@@ -26,12 +24,9 @@ export function ProjectPagination({
           <PaginationPrevious
             t={t('pagination.previous')}
             className={clsx(
-              page === 1 ? 'pointer-events-none opacity-50' : 'shadow'
+              page <= 1 ? 'pointer-events-none opacity-50' : 'shadow'
             )}
             isActive={page > 1}
-            onClick={() => {
-              if (page > 1) updatePage(page - 1)
-            }}
             href={page > 1 ? `?page=${page - 1}` : '#'}
             tabIndex={page > 1 ? 0 : -1}
             aria-disabled={page <= 1}
@@ -42,12 +37,9 @@ export function ProjectPagination({
           <PaginationNext
             t={t('pagination.next')}
             className={clsx(
-              page === totalPages ? 'pointer-events-none opacity-50' : 'shadow'
+              page >= totalPages ? 'pointer-events-none opacity-50' : 'shadow'
             )}
             isActive={page < totalPages}
-            onClick={() => {
-              if (page < totalPages) updatePage(page + 1)
-            }}
             href={page < totalPages ? `?page=${page + 1}` : '#'}
             tabIndex={page < totalPages ? 0 : -1}
             aria-disabled={page >= totalPages}

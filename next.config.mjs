@@ -7,8 +7,10 @@ const nextConfig = {
   images: {
     formats: ['image/avif', 'image/webp']
   },
+  transpilePackages: ['gsap'],
   experimental: {
-    optimizePackageImports: ['lucide-react']
+    optimizePackageImports: ['lucide-react'],
+    esmExternals: 'loose'
   }
 }
 

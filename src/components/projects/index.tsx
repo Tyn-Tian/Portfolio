@@ -1,42 +1,22 @@
-'use client'
-
-import { usePagination } from '@/hook/use-pagination'
 import { Button } from '../ui/button'
 import { ProjectCard } from './card'
 import { ProjectPagination } from './pagination'
-import { useTranslations, useMessages } from 'next-intl'
+import { useTranslations } from 'next-intl'
 import { TerminalIcon } from 'lucide-react'
-import {
-  type ProjectProps,
-  type TranslationMessages,
-  type TranslationProject
-} from '@/types'
-import { iconMap } from '@/data'
+import { type ProjectProps } from '@/types'
 
-export function Projects() {
+interface ProjectsProps {
+  projects: ProjectProps[]
+  page: number
+  totalPages: number
+}
+
+export function Projects({ projects, page, totalPages }: ProjectsProps) {
   const t = useTranslations()
-  const messages = useMessages() as TranslationMessages
-
-  const rawProjectsItems = messages?.projects?.items || []
-
-  const projectsItems: ProjectProps[] = rawProjectsItems.map(
-    (project: TranslationProject) => ({
-      ...project,
-      tags:
-        project.tags?.map((tag) => ({
-          ...tag,
-          icon: iconMap[tag.icon]!
-        })) || []
-    })
-  )
-
-  const { currentProjects, page, totalPages, updatePage } = usePagination({
-    projects: projectsItems
-  })
 
   return (
     <>
-      {currentProjects.length === 0 || page < 1 || page > totalPages ? (
+      {projects.length === 0 || page < 1 || page > totalPages ? (
         <Button variant='secondary' size='sm' asChild>
           <a href='/projects'>{t('projects.not-found')}</a>
         </Button>
@@ -47,11 +27,10 @@ export function Projects() {
             {t('projects.title')}
           </h2>
 
-          <ProjectCard projects={currentProjects} />
+          <ProjectCard projects={projects} />
           <ProjectPagination
             page={page}
             totalPages={totalPages}
-            updatePage={updatePage}
           />
         </>
       )}
