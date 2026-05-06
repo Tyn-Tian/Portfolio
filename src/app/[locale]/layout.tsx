@@ -1,8 +1,7 @@
 import type React from "react";
 import { type Metadata } from "next";
 import { ViewTransitions } from "next-view-transitions";
-import { GeistSans } from "geist/font/sans";
-import { GeistMono } from "geist/font/mono";
+import { Inter, Roboto_Mono } from "next/font/google";
 import { Head } from "@/components/head";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
@@ -19,6 +18,18 @@ import { cn } from "@/lib/utils";
 import "../styles/globals.css";
 import SmoothScrollLayout from "@/components/layout";
 import ScrollToTopButton from "@/components/scroll-top-button";
+
+const inter = Inter({
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-sans",
+});
+
+const robotoMono = Roboto_Mono({
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-mono",
+});
 
 export const metadata: Metadata = {
   title: "Portfolio | Full Stack Developer | Christian",
@@ -42,8 +53,8 @@ export default async function RootLayout({
       lang={locale}
       className={cn(
         "min-h-screen bg-background font-sans antialiased overflow-y-scroll",
-        GeistSans.variable,
-        GeistMono.variable
+        inter.variable,
+        robotoMono.variable
       )}
       suppressHydrationWarning
     >
