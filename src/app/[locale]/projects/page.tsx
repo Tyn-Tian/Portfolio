@@ -37,7 +37,7 @@ export default async function ProjectsPage({ searchParams }: ProjectsPageProps) 
   const currentProjects = projectsItems.slice(offset, offset + limit)
 
   return (
-    <div className='flex flex-col flex-1'>
+    <div className='w-full flex flex-col flex-1'>
       <Section id='projects' className='pb-24'>
         <Suspense key={page} fallback={<ProjectSkeleton />}>
           <Projects 

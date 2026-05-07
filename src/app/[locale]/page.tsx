@@ -5,7 +5,7 @@ import { HeroSkeleton } from '@/components/hero/skeleton'
 
 export default function Home() {
   return (
-    <div className='flex flex-col flex-1'>
+    <div className='w-full flex flex-col flex-1'>
       <Section id='about' className='pb-24'>
         <Suspense fallback={<HeroSkeleton />}>
           <Hero />

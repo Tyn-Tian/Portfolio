@@ -5,7 +5,7 @@ import { CareerSkeleton } from '@/components/career/skeleton'
 
 export default function CareerPage() {
   return (
-    <div className='flex flex-col flex-1'>
+    <div className='w-full flex flex-col flex-1'>
       <Section id='career' className='pb-24'>
         <Suspense fallback={<CareerSkeleton />}>
           <Career />
