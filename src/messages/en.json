@@ -185,7 +185,10 @@
           { "name": "Gitlab", "icon": "GitlabIcon" },
           { "name": "Copilot", "icon": "CopilotIcon" }
         ],
-        "description": "detikjobs is a comprehensive job portal and recruitment management system developed at detikcom. The platform streamlines the entire hiring process by integrating directly with Transmedia Assessment, ensuring a seamless flow from job posting to candidate evaluation. By optimizing backend stability and upgrading legacy systems from PHP 5 to 7.4, this project delivers a robust, data-driven solution for high-scale enterprise recruitment."
+        "description": "detikjobs is a comprehensive job portal and recruitment management system developed at detikcom. The platform streamlines the entire hiring process by integrating directly with Transmedia Assessment, ensuring a seamless flow from job posting to candidate evaluation. By optimizing backend stability and upgrading legacy systems from PHP 5 to 7.4, this project delivers a robust, data-driven solution for high-scale enterprise recruitment.",
+        "link": {
+          "preview": "https://jobs.detik.com/"
+        }
       },
       {
         "title": "detikcom | MagangHub Recruitment Automation",
@@ -209,7 +212,10 @@
           { "name": "Gitlab", "icon": "GitlabIcon" },
           { "name": "Copilot", "icon": "CopilotIcon" }
         ],
-        "description": "A web-based psychometric assessment platform developed for detikcom to support their recruitment process. The system enables candidates to complete online psychological tests, while HR teams can manage test modules, monitor progress, and review automated scoring results. The platform improves recruitment efficiency by digitizing assessment workflows, ensuring consistent evaluation standards, secure testing environments, and data-driven decision-making."
+        "description": "A web-based psychometric assessment platform developed for detikcom to support their recruitment process. The system enables candidates to complete online psychological tests, while HR teams can manage test modules, monitor progress, and review automated scoring results. The platform improves recruitment efficiency by digitizing assessment workflows, ensuring consistent evaluation standards, secure testing environments, and data-driven decision-making.",
+        "link": {
+          "preview": "https://assessment.detik.com/"
+        }
       },
       {
         "title": "detikcom | Learning Management System",

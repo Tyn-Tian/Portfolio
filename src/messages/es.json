@@ -185,7 +185,10 @@
           { "name": "Gitlab", "icon": "GitlabIcon" },
           { "name": "Copilot", "icon": "CopilotIcon" }
         ],
-        "description": "detikjobs adalah portal lowongan kerja dan sistem manajemen rekrutmen komprehensif yang dikembangkan di detikcom. Platform ini memfasilitasi seluruh proses rekrutmen melalui integrasi langsung dengan Transmedia Assessment, memastikan alur yang efisien mulai dari pemasangan loker hingga evaluasi kandidat. Dengan mengoptimalkan stabilitas backend dan memperbarui sistem legacy dari PHP 5 ke 7.4, proyek ini menyediakan solusi berbasis data yang tangguh untuk kebutuhan rekrutmen skala perusahaan besar."
+        "description": "detikjobs adalah portal lowongan kerja dan sistem manajemen rekrutmen komprehensif yang dikembangkan di detikcom. Platform ini memfasilitasi seluruh proses rekrutmen melalui integrasi langsung dengan Transmedia Assessment, memastikan alur yang efisien mulai dari pemasangan loker hingga evaluasi kandidat. Dengan mengoptimalkan stabilitas backend dan memperbarui sistem legacy dari PHP 5 ke 7.4, proyek ini menyediakan solusi berbasis data yang tangguh untuk kebutuhan rekrutmen skala perusahaan besar.",
+        "link": {
+          "preview": "https://jobs.detik.com/"
+        }
       },
       {
         "title": "detikcom | MagangHub Recruitment Automation",
@@ -208,7 +211,10 @@
           { "name": "Docker", "icon": "DockerIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
-        "description": "Platform psikometrik berbasis web untuk mendukung proses rekrutmen detikcom. Sistem memungkinkan kandidat mengerjakan tes psikologi online, sementara tim HR dapat mengelola modul tes, memantau progres, dan meninjau hasil scoring otomatis."
+        "description": "Platform psikometrik berbasis web untuk mendukung proses rekrutmen detikcom. Sistem memungkinkan kandidat mengerjakan tes psikologi online, sementara tim HR dapat mengelola modul tes, memantau progres, dan meninjau hasil scoring otomatis.",
+        "link": {
+          "preview": "https://assessment.detik.com/"
+        }
       },
       {
         "title": "detikcom | Learning Management System",
