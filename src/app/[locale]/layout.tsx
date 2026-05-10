@@ -37,6 +37,21 @@ export const metadata: Metadata = {
   icons: {
     icon: "/boy.png",
   },
+  openGraph: {
+    title: 'Portfolio | Full Stack Developer | Christian',
+    description: 'My personal portfolio: showcasing my work and skills.',
+    url: 'https://tyn-lac.vercel.app',
+    siteName: 'Portfolio | Full Stack Developer | Christian',
+    images: [
+      {
+        url: 'https://tyn-lac.vercel.app/og-image.jpg',
+        width: 1200,
+        height: 630,
+      },
+    ],
+    locale: 'us_EN',
+    type: 'website',
+  },
 };
 
 export default async function RootLayout({
