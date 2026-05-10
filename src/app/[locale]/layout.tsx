@@ -1,8 +1,7 @@
 import type React from "react";
-import { type Metadata } from "next";
+import { type Metadata, type Viewport } from "next";
 import { ViewTransitions } from "next-view-transitions";
 import { Inter, Roboto_Mono } from "next/font/google";
-import { Head } from "@/components/head";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { ThemeProvider } from "@/components/theme-provider";
@@ -31,26 +30,39 @@ const robotoMono = Roboto_Mono({
   variable: "--font-mono",
 });
 
+export const viewport: Viewport = {
+  themeColor: "#000000",
+};
+
 export const metadata: Metadata = {
+  metadataBase: new URL("https://tyn-lac.vercel.app"),
   title: "Portfolio | Full Stack Developer | Christian",
   description: "My personal portfolio: showcasing my work and skills.",
+  authors: [{ name: "Christian" }],
   icons: {
     icon: "/boy.png",
   },
+  manifest: "/site.webmanifest",
   openGraph: {
-    title: 'Portfolio | Full Stack Developer | Christian',
-    description: 'My personal portfolio: showcasing my work and skills.',
-    url: 'https://tyn-lac.vercel.app',
-    siteName: 'Portfolio | Full Stack Developer | Christian',
+    title: "Portfolio | Full Stack Developer | Christian",
+    description: "My personal portfolio: showcasing my work and skills.",
+    url: "https://tyn-lac.vercel.app",
+    siteName: "Portfolio | Full Stack Developer | Christian",
     images: [
       {
-        url: 'https://tyn-lac.vercel.app/og-image.jpg',
+        url: "/assets/og-image.png",
         width: 1200,
         height: 630,
       },
     ],
-    locale: 'us_EN',
-    type: 'website',
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Portfolio | Full Stack Developer | Christian",
+    description: "My personal portfolio: showcasing my work and skills.",
+    images: ["/assets/og-image.png"],
   },
 };
 
@@ -73,7 +85,7 @@ export default async function RootLayout({
       )}
       suppressHydrationWarning
     >
-      <Head metadata={metadata} />
+
       <body className="w-full">
         <SmoothScrollLayout>
           <NextIntlClientProvider messages={messages}>
