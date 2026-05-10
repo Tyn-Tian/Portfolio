@@ -40,14 +40,7 @@ export const metadata: Metadata = {
   description: "My personal portfolio: showcasing my work and skills.",
   authors: [{ name: "Christian" }],
   icons: {
-    icon: [
-      { url: "/favicon.ico" },
-      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
-      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
-    ],
-    apple: [
-      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
-    ],
+    icon: "/boy.png",
   },
   manifest: "/site.webmanifest",
   openGraph: {
@@ -57,7 +50,7 @@ export const metadata: Metadata = {
     siteName: "Portfolio | Full Stack Developer | Christian",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/assets/og-image.png",
         width: 1200,
         height: 630,
       },
@@ -69,7 +62,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Portfolio | Full Stack Developer | Christian",
     description: "My personal portfolio: showcasing my work and skills.",
-    images: ["/og-image.jpg"],
+    images: ["/assets/og-image.png"],
   },
 };
 
