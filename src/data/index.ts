@@ -45,6 +45,7 @@ import { GoogleSheetIcon } from '@/components/icons/tags/google-sheet'
 import { PythonIcon } from '@/components/icons/tags/python'
 import { PandasIcon } from '@/components/icons/tags/pandas'
 import { CopilotIcon } from '@/components/icons/tags/copilot'
+import { BunIcon } from '@/components/icons/tags/bun'
 
 export const AVATAR = {
   name: 'Christian',
@@ -125,5 +126,6 @@ export const iconMap: Record<string, IconComponent> = {
   GoogleSheetIcon,
   PythonIcon,
   PandasIcon,
-  CopilotIcon
+  CopilotIcon,
+  BunIcon
 }

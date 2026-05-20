@@ -156,6 +156,18 @@
     "github": "GitHub",
     "items": [
       {
+        "title": "PT Jeje Harapan Transindo | HRIS",
+        "tags": [
+          { "name": "React.js", "icon": "ReactIcon" },
+          { "name": "TypeScript", "icon": "TypeScriptIcon" },
+          { "name": "Bun", "icon": "BunIcon" },
+          { "name": "Vite", "icon": "ViteIcon" },
+          { "name": "Supabase", "icon": "SupabaseIcon" },
+          { "name": "GitHub", "icon": "GithubIcon" }
+        ],
+        "description": "Sebuah sistem HRIS terpadu untuk mengelola onboarding, data karyawan, absensi, payroll, dan invoicing. Proyek ini juga dilengkapi modul manajemen outsourcing yang terinteagrasi dengan sistem klien (pihak ketiga) menggunakan mekanisme manual import/export data."
+      },
+      {
         "title": "TynFlow",
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
