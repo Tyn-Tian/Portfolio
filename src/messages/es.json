@@ -162,8 +162,10 @@
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Bun", "icon": "BunIcon" },
           { "name": "Vite", "icon": "ViteIcon" },
+          { "name": "Flutter", "icon": "FlutterIcon" },
           { "name": "Supabase", "icon": "SupabaseIcon" },
-          { "name": "GitHub", "icon": "GithubIcon" }
+          { "name": "GitHub", "icon": "GithubIcon" },
+          { "name": "Docker", "icon": "DockerIcon" }
         ],
         "description": "Sebuah sistem HRIS terpadu untuk mengelola onboarding, data karyawan, absensi, payroll, dan invoicing. Proyek ini juga dilengkapi modul manajemen outsourcing yang terinteagrasi dengan sistem klien (pihak ketiga) menggunakan mekanisme manual import/export data."
       },
