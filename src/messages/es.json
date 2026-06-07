@@ -195,7 +195,6 @@
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "Linux", "icon": "LinuxIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" },
           { "name": "Copilot", "icon": "CopilotIcon" }
@@ -222,7 +221,6 @@
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Linux", "icon": "LinuxIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
@@ -240,7 +238,6 @@
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
           { "name": "SQLite", "icon": "SQLiteIcon" },
           { "name": "Bootstrap", "icon": "BootstrapIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "Learning Management System untuk meningkatkan efisiensi pembelajaran dan pelatihan internal detikcom. Platform ini memungkinkan manajemen kursus, keterlibatan peserta, dan pelacakan progres dalam lingkungan yang terstruktur.",
@@ -253,7 +250,6 @@
         "title": "SIPEDAK | Student Activity Fund Management System",
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "React", "icon": "ReactIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
@@ -271,7 +267,6 @@
         "title": "Contrihub | detikcom Contributors Management System",
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "React", "icon": "ReactIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
@@ -291,7 +286,6 @@
         "tags": [
           { "name": "Angular", "icon": "AngularIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Node.js", "icon": "NodeJSIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Github", "icon": "GithubIcon" }
         ],
@@ -318,8 +312,7 @@
           { "name": "Vue", "icon": "VueIcon" },
           { "name": "Vuex", "icon": "VuexIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          { "name": "CSS", "icon": "CSSIcon" }
         ],
         "description": "Aplikasi todo sederhana yang dibuat dengan Vue dan Vuex.",
         "link": {

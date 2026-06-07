@@ -195,7 +195,6 @@
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "Linux", "icon": "LinuxIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" },
           { "name": "Copilot", "icon": "CopilotIcon" }
@@ -222,7 +221,6 @@
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Linux", "icon": "LinuxIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" },
           { "name": "Copilot", "icon": "CopilotIcon" }
@@ -241,7 +239,6 @@
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
           { "name": "SQLite", "icon": "SQLiteIcon" },
           { "name": "Bootstrap", "icon": "BootstrapIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "A Learning Management System developed for detikcom to enhance internal learning and training efficiency. This platform enables seamless course management, learner engagement, and progress tracking in a structured and user-friendly environment. The project focuses on improving accessibility, collaboration, and digital transformation in corporate learning at detikcom",
@@ -254,7 +251,6 @@
         "title": "SIPEDAK | Student Activity Fund Management System",
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "React", "icon": "ReactIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
@@ -272,7 +268,6 @@
         "title": "Contrihub | detikcom Contributors Management System",
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "React", "icon": "ReactIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
@@ -292,7 +287,6 @@
         "tags": [
           { "name": "Angular", "icon": "AngularIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Node.js", "icon": "NodeJSIcon" },
           { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Github", "icon": "GithubIcon" }
         ],
@@ -319,8 +313,7 @@
           { "name": "Vue", "icon": "VueIcon" },
           { "name": "Vuex", "icon": "VuexIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          { "name": "CSS", "icon": "CSSIcon" }
         ],
         "description": "A simple todo app made with Vue and Vuex.",
         "link": {
