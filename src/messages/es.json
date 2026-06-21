@@ -160,8 +160,6 @@
         "tags": [
           { "name": "React.js", "icon": "ReactIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Bun", "icon": "BunIcon" },
-          { "name": "Vite", "icon": "ViteIcon" },
           { "name": "Flutter", "icon": "FlutterIcon" },
           { "name": "Supabase", "icon": "SupabaseIcon" },
           { "name": "GitHub", "icon": "GithubIcon" },
@@ -175,11 +173,8 @@
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "Vercel", "icon": "VercelIcon" },
-          { "name": "GitHub", "icon": "GithubIcon" },
           { "name": "Supabase", "icon": "SupabaseIcon" },
-          { "name": "Copilot", "icon": "CopilotIcon" },
+          { "name": "GitHub", "icon": "GithubIcon" },
           { "name": "Docker", "icon": "DockerIcon" }
         ],
         "description": "Aplikasi berbasis web yang dirancang untuk membantu pengguna mengelola keuangan pribadi secara efisien. Platform ini memungkinkan pengguna untuk melacak pemasukan dan pengeluaran, membuat serta mengelola anggaran, dan memantau aktivitas keuangan secara real-time. Aplikasi ini juga menyediakan wawasan terstruktur untuk mendukung pengambilan keputusan keuangan yang lebih baik serta meningkatkan kebiasaan dalam mengelola anggaran.",
@@ -195,10 +190,8 @@
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
-          { "name": "Gitlab", "icon": "GitlabIcon" },
-          { "name": "Copilot", "icon": "CopilotIcon" }
+          { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "detikjobs adalah portal lowongan kerja dan sistem manajemen rekrutmen komprehensif yang dikembangkan di detikcom. Platform ini memfasilitasi seluruh proses rekrutmen melalui integrasi langsung dengan Transmedia Assessment, memastikan alur yang efisien mulai dari pemasangan loker hingga evaluasi kandidat. Dengan mengoptimalkan stabilitas backend dan memperbarui sistem legacy dari PHP 5 ke 7.4, proyek ini menyediakan solusi berbasis data yang tangguh untuk kebutuhan rekrutmen skala perusahaan besar.",
         "link": {
@@ -221,7 +214,6 @@
           { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
         ],

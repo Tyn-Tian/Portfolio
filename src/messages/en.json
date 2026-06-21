@@ -160,8 +160,6 @@
         "tags": [
           { "name": "React.js", "icon": "ReactIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Bun", "icon": "BunIcon" },
-          { "name": "Vite", "icon": "ViteIcon" },
           { "name": "Flutter", "icon": "FlutterIcon" },
           { "name": "Supabase", "icon": "SupabaseIcon" },
           { "name": "GitHub", "icon": "GithubIcon" },
@@ -175,11 +173,8 @@
         "tags": [
           { "name": "Next.js", "icon": "NextJSIcon" },
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "Vercel", "icon": "VercelIcon" },
-          { "name": "GitHub", "icon": "GithubIcon" },
           { "name": "Supabase", "icon": "SupabaseIcon" },
-          { "name": "Copilot", "icon": "CopilotIcon" },
+          { "name": "GitHub", "icon": "GithubIcon" },
           { "name": "Docker", "icon": "DockerIcon" }
         ],
         "description": "A web-based application designed to help users manage their personal finances efficiently. The platform allows users to track income and expenses, create and manage budgets, and monitor financial activities in real time. It provides structured insights to support better financial decision-making and improve overall budgeting habits.",
@@ -195,10 +190,8 @@
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
-          { "name": "Gitlab", "icon": "GitlabIcon" },
-          { "name": "Copilot", "icon": "CopilotIcon" }
+          { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "detikjobs is a comprehensive job portal and recruitment management system developed at detikcom. The platform streamlines the entire hiring process by integrating directly with Transmedia Assessment, ensuring a seamless flow from job posting to candidate evaluation. By optimizing backend stability and upgrading legacy systems from PHP 5 to 7.4, this project delivers a robust, data-driven solution for high-scale enterprise recruitment.",
         "link": {
@@ -221,10 +214,8 @@
           { "name": "CodeIgniter", "icon": "CodeigniterIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
           { "name": "MySQL", "icon": "MySQLIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
           { "name": "Docker", "icon": "DockerIcon" },
-          { "name": "Gitlab", "icon": "GitlabIcon" },
-          { "name": "Copilot", "icon": "CopilotIcon" }
+          { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "A web-based psychometric assessment platform developed for detikcom to support their recruitment process. The system enables candidates to complete online psychological tests, while HR teams can manage test modules, monitor progress, and review automated scoring results. The platform improves recruitment efficiency by digitizing assessment workflows, ensuring consistent evaluation standards, secure testing environments, and data-driven decision-making.",
         "link": {
@@ -239,7 +230,6 @@
           { "name": "Moodle", "icon": "MoodleIcon" },
           { "name": "JavaScript", "icon": "JavaScriptIcon" },
           { "name": "SQLite", "icon": "SQLiteIcon" },
-          { "name": "Bootstrap", "icon": "BootstrapIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
         "description": "A Learning Management System developed for detikcom to enhance internal learning and training efficiency. This platform enables seamless course management, learner engagement, and progress tracking in a structured and user-friendly environment. The project focuses on improving accessibility, collaboration, and digital transformation in corporate learning at detikcom",
@@ -255,8 +245,8 @@
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
-          { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Github", "icon": "GithubIcon" }
         ],
         "description": "SIPEDAK is a web-based information system designed to streamline and digitize the entire process from proposal submission to financial accountability for student activities at ISB Atma Luhur. The system improves efficiency, reduces bureaucratic bottlenecks, and enhances transparency and accountability by providing an integrated platform for budgeting, revision tracking, and report generation.",
@@ -272,8 +262,8 @@
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Laravel", "icon": "LaravelIcon" },
           { "name": "PHP", "icon": "PHPIcon" },
-          { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
+          { "name": "MySQL", "icon": "MySQLIcon" },
           { "name": "Postman", "icon": "PostmanIcon" },
           { "name": "Gitlab", "icon": "GitlabIcon" }
         ],
