@@ -165,7 +165,8 @@
           { "name": "Flutter", "icon": "FlutterIcon" },
           { "name": "Supabase", "icon": "SupabaseIcon" },
           { "name": "GitHub", "icon": "GithubIcon" },
-          { "name": "Docker", "icon": "DockerIcon" }
+          { "name": "Docker", "icon": "DockerIcon" },
+          { "name": "RabbitMQ", "icon": "RabbitMQIcon" }
         ],
         "description": "An integrated HRIS platform designed to streamline onboarding, employee data, attendance, payroll, and invoicing. The project also features an outsourcing management module, enabling third-party client integration via manual data import/export."
       },
