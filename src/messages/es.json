@@ -175,7 +175,8 @@
           { "name": "TypeScript", "icon": "TypeScriptIcon" },
           { "name": "Supabase", "icon": "SupabaseIcon" },
           { "name": "GitHub", "icon": "GithubIcon" },
-          { "name": "Docker", "icon": "DockerIcon" }
+          { "name": "Docker", "icon": "DockerIcon" },
+          { "name": "Firebase", "icon": "FirebaseIcon" }
         ],
         "description": "Aplikasi berbasis web yang dirancang untuk membantu pengguna mengelola keuangan pribadi secara efisien. Platform ini memungkinkan pengguna untuk melacak pemasukan dan pengeluaran, membuat serta mengelola anggaran, dan memantau aktivitas keuangan secara real-time. Aplikasi ini juga menyediakan wawasan terstruktur untuk mendukung pengambilan keputusan keuangan yang lebih baik serta meningkatkan kebiasaan dalam mengelola anggaran.",
         "link": {

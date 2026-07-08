@@ -48,6 +48,7 @@ import { CopilotIcon } from '@/components/icons/tags/copilot'
 import { BunIcon } from '@/components/icons/tags/bun'
 import { FlutterIcon } from '@/components/icons/tags/flutter'
 import { RabbitMQIcon } from '@/components/icons/tags/rabbitmq'
+import { FirebaseIcon } from '@/components/icons/tags/firebase'
 
 export const AVATAR = {
   name: 'Christian',
@@ -131,5 +132,6 @@ export const iconMap: Record<string, IconComponent> = {
   CopilotIcon,
   BunIcon,
   FlutterIcon,
-  RabbitMQIcon
+  RabbitMQIcon,
+  FirebaseIcon
 }
